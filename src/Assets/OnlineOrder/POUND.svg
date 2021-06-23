@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>British_Pound</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="finance" transform="translate(-322.000000, -46.000000)">
+            <g id="British_Pound" transform="translate(322.000000, 46.000000)">
+                <g id="Layer_1">
+                    <circle id="Oval" fill="#9C27B0" cx="19" cy="19" r="19"></circle>
+                    <path d="M18.037,20.61 L18.125,22.639 C18.125,24.266 17.541,25.12 17.22,25.499 L26.75,25.499 L26.75,29.016 L11.294,29.016 L11.294,25.499 L12.637,25.499 C13.197,25.499 13.688,24.615 13.688,22.887 L13.615,20.61 L11.251,20.61 L11.251,17.166 L13.498,17.166 L13.396,13.853 C13.396,12.077 14.181,7.49 20.022,7.49 C26.402,7.49 26.648,12.661 26.648,13.576 L22.46,13.576 C22.46,13.099 22.404,11.022 20.008,11.022 C18.055,11.022 17.775,12.919 17.775,13.853 L17.906,17.166 L22.416,17.166 L22.416,20.61 L18.037,20.61 L18.037,20.61 Z" id="Shape" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

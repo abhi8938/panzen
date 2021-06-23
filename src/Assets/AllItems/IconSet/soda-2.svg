@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="52px" viewBox="0 0 31 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>soda-2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="16.3-MAIN-UI---ALL-ITEM-(-ADD)-Copy-2" transform="translate(-602.000000, -1361.000000)">
+            <g id="CREATE-ITEM" transform="translate(327.000000, 413.000000)">
+                <g id="NOTIFICATION-BAR" transform="translate(66.000000, 545.000000)">
+                    <g id="SET-2" transform="translate(23.000000, 279.000000)">
+                        <g id="soda-2" transform="translate(186.000000, 124.000000)">
+                            <g>
+                                <polyline id="Shape" fill="#FF505D" fill-rule="nonzero" points="13.6327 11.2327 13.6327 0.7837 16.7673 0.7837 16.7673 11.2327"></polyline>
+                                <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="29.5673 16.4571 28 16.4571 25.9102 11.2327 4.4898 11.2327 2.4 16.4571 0.8327 16.4571 0.8327 19.5918 29.5673 19.5918"></polygon>
+                                <polygon id="Rectangle-path" fill="#EBE5DD" fill-rule="nonzero" points="0.8327 16.4571 29.5674 16.4571 29.5674 19.5918 0.8327 19.5918"></polygon>
+                                <polygon id="Shape" fill="#FF505D" fill-rule="nonzero" points="27.7388 19.5918 23.5592 50.4163 6.8408 50.4163 2.6612 19.5918"></polygon>
+                                <path d="M2.6612,19.5918 L2.9446,21.6816 L23.2567,21.6816 C24.5225,21.6816 25.4976,22.798 25.3276,24.0523 L21.7528,50.4163 L23.5592,50.4163 L27.7388,19.5918 L2.6612,19.5918 Z" id="Shape" fill="#E21220" fill-rule="nonzero"></path>
+                                <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="26.7325 27.0096 25.9771 32.5872 5.7061 42.0467 5.0394 37.1336"></polygon>
+                                <polygon id="Shape" fill="#EBE5DD" fill-rule="nonzero" points="26.7325 27.0096 25.9771 32.5872 24.0482 33.4869 24.8047 27.9092"></polygon>
+                                <path d="M30.351,15.6735 L28.5306,15.6735 L26.4408,10.449 L3.9592,10.449 L1.8694,15.6735 L0.049,15.6735 L0.049,20.3755 L1.9766,20.3755 L6.1562,51.2 L24.2438,51.2 L28.4234,20.3755 L30.351,20.3755 L30.351,15.6735 Z M25.2576,32.0582 L6.3395,40.8863 L5.8939,37.5996 L25.7637,28.3266 L25.2576,32.0582 Z M22.8746,49.6327 L7.5254,49.6327 L6.56,42.513 L25.0073,33.9046 L22.8746,49.6327 Z M26.014,26.4801 L5.6733,35.9729 L3.5584,20.3755 L26.8418,20.3755 L26.014,26.4801 Z M28.7837,18.8082 L1.6163,18.8082 L1.6163,17.2409 L2.4,17.2409 L2.9306,17.2409 L25.9102,17.2409 L25.9102,15.6736 L3.5575,15.6736 L5.0204,12.0165 L25.3796,12.0165 L27.4694,17.241 L28.7837,17.241 L28.7837,18.8082 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                                <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="14.4163 1.5673 15.9837 1.5673 15.9837 9.1429 17.551 9.1429 17.551 0 12.849 0 12.849 9.1429 14.4163 9.1429"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

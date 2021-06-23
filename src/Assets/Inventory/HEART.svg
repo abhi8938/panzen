@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="27px" viewBox="0 0 33 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>HEART</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="24.3-MAIN-UI---CUSTOMER-ANALYTICS-(-SORTING)" transform="translate(-1185.000000, -2154.000000)" fill="#F44336" stroke="#1A2532">
+            <g id="2.CUSTOMER-DETAILS" transform="translate(310.000000, 1722.000000)">
+                <g id="NOTIFICATION-BAR" transform="translate(855.000000, 68.000000)">
+                    <g id="SAVED" transform="translate(0.000000, 348.000000)">
+                        <g id="HEART" transform="translate(21.000000, 17.000000)">
+                            <g id="Shape">
+                                <path d="M22.579199,0.148909084 C19.7791991,0.148909084 17.2875726,1.45707539 15.6799993,3.49191803 C14.0724261,1.45707539 11.5807995,0.148909084 8.78079962,0.148909084 C3.93119983,0.148909084 0,4.06894073 0,8.90476325 C0,15.4656975 15.6799993,25.1656353 15.6799993,25.1656353 C15.6799993,25.1656353 31.3599986,15.464953 31.3599986,8.90476325 C31.3599986,4.06894073 27.4287988,0.148909084 22.579199,0.148909084 L22.579199,0.148909084 Z" stroke-width="1.20000005"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

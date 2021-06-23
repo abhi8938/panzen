@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="34px" viewBox="0 0 32 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ICON</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="8.MAIN-UI---SMART-OVERVIEW" transform="translate(-37.000000, -628.000000)">
+            <g id="LEFT-HANDLE">
+                <g id="4.-PRODUCTS" transform="translate(0.000000, 492.000000)">
+                    <g id="COMBO/DEALS" transform="translate(0.000000, 126.000000)">
+                        <g id="COMBOS">
+                            <g id="ICON" transform="translate(37.000000, 10.000000)">
+                                <g id="Group">
+                                    <g id="Circle_Shadow_13_" transform="translate(0.000000, 1.032258)" fill="#CAA334">
+                                        <circle id="Oval" cx="16" cy="16" r="16"></circle>
+                                    </g>
+                                    <g id="Circle_13_" fill="#EDC03D">
+                                        <circle id="Oval" cx="16" cy="16.483871" r="16"></circle>
+                                    </g>
+                                    <path d="M31.7419355,18.8903226 L20.8516129,8 L12.283871,12.8 L10.8387097,24.2580645 L18.4258065,31.8451613 C25.1354839,30.8129032 30.5032258,25.6 31.7419355,18.8903226 L31.7419355,18.8903226 Z" id="Long_Shadow_14_" fill="#000000" opacity="0.15"></path>
+                                    <g id="Bookmark" transform="translate(10.838710, 7.741935)" fill="#FFFCF2">
+                                        <path d="M9.29032258,0 L1.03225806,0 C0.464516129,0 0,0.464516129 0,1.03225806 L0,16.516129 L5.16129032,12.3870968 L10.3225806,16.516129 L10.3225806,1.03225806 C10.3225806,0.464516129 9.85806452,0 9.29032258,0 L9.29032258,0 Z M7.74193548,7.22580645 L5.67741935,7.22580645 L5.67741935,9.29032258 L4.64516129,9.29032258 L4.64516129,7.22580645 L2.58064516,7.22580645 L2.58064516,6.19354839 L4.64516129,6.19354839 L4.64516129,4.12903226 L5.67741935,4.12903226 L5.67741935,6.19354839 L7.74193548,6.19354839 L7.74193548,7.22580645 L7.74193548,7.22580645 Z" id="Shape"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

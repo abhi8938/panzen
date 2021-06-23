@@ -1,0 +1,164 @@
+.fb_parent{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.fb_parent > img:first-child{
+   align-self: flex-end;
+    width: 6vmin;
+    height: 5vmin;
+    margin-bottom: 5vmin;
+    cursor: pointer;
+
+}
+
+.Cog_list_frame{
+    display: inline-grid;
+    grid-template-columns: 18% 18% 18% 18% 18% 14%;
+    width: 95%;
+    padding-left: 4%;
+}
+
+
+
+
+
+
+
+
+
+
+.cogs_dropdown {
+    position: relative;
+    display: inline-block;
+    font-family: CircularStd;
+}
+
+.cogs_dropdown > div:first-child {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+    width: 10vw;
+    height: 5vh;
+    border-radius: 7px;
+    background-color: #fbd635;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.cogs_dropdown > div:first-child > text {
+    font-family: CircularStd;
+    font-size: 1.7vmin;
+    font-weight: 500;
+    text-align: center;
+    color: #202a38;;
+    width: 70%;
+}
+
+.cogs_dropdown > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    top: 7vmin;
+    width: 17.3vw;
+    right: -4vmin;
+    background-color: #273142;
+    font-weight: normal;
+    position: absolute;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.cogs_dropdown > ul li:first-child {
+    border-bottom: rgba(151, 151, 151, 0.4) 1px solid;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    padding-left: 2vmin;
+}
+
+.cogs_dropdown > ul li:not(first-child) div {
+    height: 7vh;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row;
+    padding-left: 2vmin;
+    margin-bottom: .5vmin;
+    cursor: pointer;
+}
+
+.cogs_dropdown > ul li img {
+    width: 3.5vmin;
+    height: 3.5vmin;
+    margin-right: 2vmin;
+}
+
+.cogs_dropdown > ul li text {
+    font-size: 1.6vmin;
+    font-weight: 500;
+}
+
+
+
+
+
+
+.fb_common{
+    display: flex;
+    flex-direction: column;
+    width: 97%;
+    border: solid 1px rgba(39, 49, 66, 0.5);
+    background-color: rgba(39, 49, 66, 0.5);
+    padding: 2vmin;
+    align-items: center;
+    min-height: 80vh;
+    margin-bottom: 7vmin;
+}
+.fb_common > div:first-child{
+    display: flex;
+    flex-direction: row;
+    width: 98%;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 4.5vh;
+    margin-top: 1vh;
+}
+
+.fb_common > div:first-child > text:first-child{
+    font-family: CircularStd;
+    font-size: 2vmin;
+    font-weight: 500;
+    text-align: center;
+    color: white;
+}
+
+.fb_common > div:first-child > div:last-child {
+    width: 30%;
+    height: 8vh;
+    border: solid 0.6px rgba(49, 61, 79, 0.1);
+    background-color: rgba(49, 61, 79, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-self: flex-end;
+}
+.fb_common > div:nth-child(2){
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+

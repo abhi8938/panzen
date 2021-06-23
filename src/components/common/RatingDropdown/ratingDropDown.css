@@ -1,0 +1,100 @@
+
+.rating_dropdown{
+    position: relative;
+    display: inline-block;
+    font-family: CircularStd;
+    align-self: start;
+}
+.rating_dropdown_dark{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+    width: 10.5vw;
+    height: 6vh;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 1.5vmin;
+    padding-left: 1vmin;
+    border-radius: 10px;
+    border: solid 0.5px rgba(116,116,116,0.5);
+    background-color: rgba(34,44,60,0.8);
+    color: rgba(255,255,255,0.5);
+}
+.rating_dropdown_darker{
+    border-radius: 10px;
+    border: solid 0.5px #747474;
+    background-color: #222c3c;
+}
+.rating_dropdown_light > div:first-child > text{
+    font-family: CircularStd;
+    font-size: 1.6vmin;
+    font-weight: 500;
+    text-align: start;
+    width: 65%;
+    border-left: black 1px solid;
+    padding-left: 2%;
+}
+.rating_dropdown_dark > div:first-child > text{
+    font-family: CircularStd;
+    font-size: 1.6vmin;
+    font-weight: 500;
+    text-align: start;
+    width: 65%;
+    padding-left: 2%;
+}
+.rating_dropdown > div:first-child > img{
+    width: 15vmin;
+    height: 5vmin;
+}
+.rating_dropdown > ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    right:0px;
+    top:7vmin;
+    width: 12vw;
+    border-radius: 8px;
+    box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.5);
+    font-weight:normal;
+    position: absolute;
+    z-index: 1;
+    background-color: #222c3c;
+}
+
+.rating_dropdown > ul li > div{
+    cursor: pointer;
+    height: 5.8vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 2vmin;
+    margin-bottom: .5vmin;
+    transition: all 0.4s;
+    -webkit-transition: all 0.4s;
+}
+.rating_dropdown > ul li > div:hover{
+    background-color: rgba(251,214,53,0.5);
+    border-radius: 8px;
+
+}
+.rating_dropdown > ul li img{
+    width: 15vmin;
+    height: 5vmin;
+    margin-right: 2vmin;
+}
+.rating_dropdown > ul li img:not(first-child){
+    width: 15vmin;
+    height: 5vmin;
+    margin-right: 2vmin;
+}
+.rating_dropdown > ul li > div > text{
+    font-size: 1.6vmin;
+    font-weight: 500;
+    font-family: CircularStd;
+    font-weight: 500;
+    width: 80%;
+    text-align: start;
+}

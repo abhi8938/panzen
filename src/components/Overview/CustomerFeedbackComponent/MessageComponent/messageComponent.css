@@ -1,0 +1,77 @@
+.message_component_parent {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 90%;
+    margin-bottom: 4vh;
+    align-self: center;
+}
+
+.message_component_parent:nth-of-type(even) {
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    width: 90%;
+    margin-bottom: 4vh;
+    align-self: center;
+}
+
+.message_component_random_icon {
+    width: 8vmin;
+    height: 8.3vmin;
+}
+
+.message_component_second_child {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 78%;
+    flex-direction: column;
+    padding: 2.3vmin 2.3vmin 1.9vmin 1.9vmin;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 13vh;
+}
+
+.message_component_second_child_bottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.message_component_message_text {
+    font-size: 1vw;
+    line-height: 1.71;
+    letter-spacing: 0.1px;
+    width: 98%;
+}
+
+.message_component_time {
+    font-size: .8vw;
+    text-align: right;
+    opacity: 0.8;
+}
+
+.message_component_second_child_bottom_left {
+    width: 10%;
+    display: flex;
+    align-items: center;
+}
+
+.message_component_saved_icon {
+    width: 2.2vmin;
+    height: 2.2vmin;
+    margin-right: 1.4vw;
+    cursor: pointer;
+}
+
+.message_component_second_icon {
+    width: 2.2vmin;
+    height: 2.2vmin;
+}
+
+

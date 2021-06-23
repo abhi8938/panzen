@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="32px" viewBox="0 0 23 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>LOCK</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="25.2-MAIN-UI---EMPLOYEE-ANALYTICS-(EMPLOYEE-DETAILS)" transform="translate(-354.000000, -1148.000000)">
+            <g id="2.EMPLOYEE-DETAILS" transform="translate(310.000000, 730.000000)">
+                <g id="DETAILS" transform="translate(0.000000, 91.000000)">
+                    <g id="TAB--ACTIVE" transform="translate(1.000000, 48.000000)">
+                        <g id="EMPLOYEE-DETAILS" transform="translate(23.000000, 81.000000)">
+                            <g id="LOGIN-ID" transform="translate(20.000000, 200.000000)">
+                                <g id="LOCK">
+                                    <g id="Lock">
+                                        <path d="M17.249999,11.2499993 L17.249999,5.99999964 C17.249999,2.68649984 14.5634991,0 11.2499993,0 C7.93649953,0 5.24999969,2.68649984 5.24999969,5.99999964 L5.24999969,11.2499993" id="Shape" stroke="#78909C" stroke-width="3.19999981"></path>
+                                        <circle id="Oval" fill="#D84315" cx="11.2499993" cy="17.9999989" r="11.2499993"></circle>
+                                        <circle id="Oval" fill="#FF9800" cx="11.2499993" cy="17.9999989" r="8.24999951"></circle>
+                                        <circle id="Oval" fill="#D84315" cx="11.2499993" cy="17.9999989" r="3.74999978"></circle>
+                                        <circle id="Oval" fill="#FFC107" cx="11.2499993" cy="24.7499985" r="1"></circle>
+                                        <circle id="Oval" fill="#FFC107" cx="11.2499993" cy="11.2499993" r="1"></circle>
+                                        <circle id="Oval" fill="#FFC107" cx="4.49999973" cy="17.9999989" r="1"></circle>
+                                        <circle id="Oval" fill="#FFC107" cx="17.9999989" cy="17.9999989" r="1"></circle>
+                                        <circle id="Oval" fill="#FFC107" transform="translate(17.094974, 21.375746) rotate(-59.999272) translate(-17.094974, -21.375746) " cx="17.094974" cy="21.3757457" r="1"></circle>
+                                        <circle id="Oval" fill="#FFC107" transform="translate(5.403975, 14.625152) rotate(-59.999272) translate(-5.403975, -14.625152) " cx="5.40397468" cy="14.6251521" r="1"></circle>
+                                        <circle id="Oval" fill="#FFC107" transform="translate(7.874178, 23.845949) rotate(-59.999272) translate(-7.874178, -23.845949) " cx="7.87417753" cy="23.8459486" r="1"></circle>
+                                        <circle id="Oval" fill="#FFC107" transform="translate(14.624771, 12.154949) rotate(-59.999272) translate(-14.624771, -12.154949) " cx="14.6247711" cy="12.1549493" r="1"></circle>
+                                        <circle id="Oval" fill="#FFC107" transform="translate(17.094902, 14.624624) rotate(-30.000728) translate(-17.094902, -14.624624) " cx="17.094902" cy="14.6246241" r="1"></circle>
+                                        <circle id="Oval" fill="#FFC107" transform="translate(5.404197, 21.374249) rotate(-30.000728) translate(-5.404197, -21.374249) " cx="5.40419668" cy="21.3742487" r="1"></circle>
+                                        <circle id="Oval" fill="#FFC107" transform="translate(14.624399, 23.844827) rotate(-30.000728) translate(-14.624399, -23.844827) " cx="14.6243991" cy="23.8448266" r="1"></circle>
+                                        <circle id="Oval" fill="#FFC107" transform="translate(7.874700, 12.154046) rotate(-30.000728) translate(-7.874700, -12.154046) " cx="7.87469953" cy="12.1540463" r="1"></circle>
+                                        <path d="M11.2499993,14.9999991 C10.8562494,14.9999991 10.4812494,15.0779991 10.1362494,15.2159991 L11.2499993,17.9999989 L12.3637493,15.2159991 C12.0187493,15.0779991 11.6437493,14.9999991 11.2499993,14.9999991 L11.2499993,14.9999991 Z" id="Shape" fill="#FF5722"></path>
+                                        <path d="M11.2499993,17.9999989 L10.1362494,20.7839988 C10.4812494,20.9219988 10.8562494,20.9999987 11.2499993,20.9999987 C11.6437493,20.9999987 12.0187493,20.9219988 12.3637493,20.7839988 L11.2499993,17.9999989 L11.2499993,17.9999989 Z" id="Shape" fill="#FF5722"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

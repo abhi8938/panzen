@@ -1,0 +1,104 @@
+
+@font-face {
+    font-family: 'Renner-it';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../../../Assets/Renner.ttf'); /* IE9 Compat Modes */
+}
+
+.alertBox {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.display-block {
+    display: block;
+}
+
+.display-none {
+    display: none;
+}
+
+.alertBox > div:first-child {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    position: fixed;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    width: 30%;
+    height: 42vh;
+    border-radius: 33.8px;
+    box-shadow: 3px 3px 6px 0 rgba(0, 0, 0, 0.5), -3px -3px 6px 0 rgba(0, 0, 0, 0.5);
+    background-color: #ffffff;
+    padding-top: 3vmin;
+    text-align: center;
+}
+
+.alertBox > div:first-child > img:first-child {
+    width: 24%;
+    height: 30%;
+    border-radius: 50px;
+    /*background-color: rgba(0, 0, 0, 0.5);*/
+}
+
+.alertBox > div:first-child > text:nth-child(2) {
+    width: 90%;
+    font-family: Renner-it;
+    font-size: 3.7vh;
+    font-weight: 600;
+    color: #202a38;
+}
+
+.alertBox > div:first-child > text:nth-child(3) {
+    width: 80%;
+    font-family: Renner-it;
+    font-size: 2.4vh;
+    font-weight: 600;
+    color: #50565a;
+    line-height: 1.41;
+}
+
+.alertBox > div:first-child > text:nth-child(4) {
+    margin-right: 4vmin;
+    padding: .7vmin;
+    border-radius: 5px;
+    font-family: Renner-it;
+    font-size: 3.8vh;
+    font-weight:500;
+    line-height: 1.13;
+    cursor: pointer;
+    align-self: flex-end;
+    transition: background-color 0.4s;
+    -webkit-transition: background-color 0.4s;
+}
+
+.alertBox > div:first-child > .Done {
+    color: #50bda1;
+}
+
+.alertBox > div:first-child > .Close {
+    color: #ff5722;
+}
+
+/*.alertBox > div:first-child > .orange {*/
+/*    background-color: #ff5722;*/
+/*}*/
+
+/*.alertBox > div:first-child > .green {*/
+/*    background-color: #50bda1;*/
+/*}*/
+
+.alertBox > div:first-child > .Close:hover {
+    background-color: rgba(255, 87, 34, 0.2);
+}
+
+.alertBox > div:first-child > .Done:hover {
+    background-color: rgba(80, 189, 161, 0.2);
+}

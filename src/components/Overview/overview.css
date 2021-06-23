@@ -1,0 +1,35 @@
+.overview_parent{
+    display: flex;
+    flex-direction: column;
+    padding:3.6vmin 3.8vmin 3.8vmin 3.8vmin;
+}
+
+.overview_first_child{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 4vh;
+}
+.overview_second_child{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 4vh;
+}
+.overview_fourth_child{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 4vh;
+}
+.overview_sixth_child{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-bottom: 4vh;
+    justify-content: space-between;
+}

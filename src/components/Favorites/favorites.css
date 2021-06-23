@@ -1,0 +1,8 @@
+.favourites > div:nth-child(2)> div:first-child{
+width: 100%;
+    align-items: flex-end;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: 3vmin;
+}

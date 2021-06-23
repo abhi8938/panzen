@@ -1,0 +1,44 @@
+.logo_component {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-direction: row;
+    justify-content: start;
+    padding: 2.2vmin .5vmin 2.2vmin 2vmin;
+}
+
+.logo_component_big {
+    width: 9vmin;
+    height: 9vmin;
+}
+
+.logo_component text {
+    margin-left: 1.3vmin;
+    font-family: CircularStd;
+    font-size: .9vw;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.52;
+    letter-spacing: 0.2px;
+    color: #1a2532;
+}
+
+.logo_component >  div:nth-child(2) {
+    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+}
+
+.logo_component_small {
+    width: 4vmin;
+    height: 4vmin;
+}
+
+.logo_component > div:nth-child(2) div {
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}

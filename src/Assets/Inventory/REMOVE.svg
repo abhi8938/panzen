@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="42px" viewBox="0 0 45 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ADD</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-7.4%" y="-4.4%" width="114.7%" height="108.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="23.2.2--MAIN-UI---INVENTORY-MANAGEMENT-(SUPPLIER)-(EDIT-1)" transform="translate(-887.000000, -656.000000)">
+            <g id="ITEMS-PANEL" filter="url(#filter-1)" transform="translate(873.000000, 560.000000)">
+                <g id="ITEMS" transform="translate(20.000000, 15.000000)">
+                    <g id="INVENTORY-ITEM" transform="translate(0.000000, 86.000000)">
+                        <g id="REMOVE" transform="translate(0.000000, 1.000000)">
+                            <g id="Minus_2_">
+                                <g id="Group">
+                                    <g id="Circle_Shadow_45_" transform="translate(0.000000, 1.000000)" fill="#D27418">
+                                        <circle id="Oval" cx="15.5" cy="15.5" r="15.5"></circle>
+                                    </g>
+                                    <g id="Circle_46_" fill="#F7881C">
+                                        <circle id="Oval" cx="15.5" cy="15.5" r="15.5"></circle>
+                                    </g>
+                                    <path d="M9.15,21.85 L18.05,30.75 C24.55,29.65 29.7,24.55 30.8,18 L21.9,9.1 L9.15,21.85 L9.15,21.85 Z" id="Long_Shadow_44_" fill="#000000" opacity="0.15"></path>
+                                    <g id="Circle_47_" transform="translate(6.500000, 6.500000)" fill="#344E5F">
+                                        <circle id="Oval" cx="9" cy="9" r="9"></circle>
+                                    </g>
+                                    <g id="Minus" transform="translate(10.500000, 14.500000)" fill="#FFFCF2">
+                                        <path d="M9,0 L1,0 C0.45,0 0,0.45 0,1 C0,1.55 0.45,2 1,2 L9,2 C9.55,2 10,1.55 10,1 C10,0.45 9.55,0 9,0 L9,0 Z" id="Shape"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

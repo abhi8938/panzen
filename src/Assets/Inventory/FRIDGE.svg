@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="43px" viewBox="0 0 33 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>FRIDGE</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="23.1-MAIN-UI---INVENTORY-MANAGEMENT" transform="translate(-786.000000, -258.000000)">
+            <g id="INVENTORY-MANAGEMENT" transform="translate(293.000000, 203.000000)">
+                <g id="TOP-TOOLBAR" transform="translate(23.000000, 30.000000)">
+                    <g id="INVENTORY" transform="translate(427.000000, 10.000000)">
+                        <g id="STORAGE" transform="translate(23.000000, 5.000000)">
+                            <g id="FRIDGE" transform="translate(20.000000, 10.000000)">
+                                <g id="Fridge">
+                                    <rect id="Rectangle-path" fill="#263238" x="2.2" y="39.6923077" width="3.3" height="3.30769231"></rect>
+                                    <rect id="Rectangle-path" fill="#263238" x="27.5" y="39.6923077" width="3.3" height="3.30769231"></rect>
+                                    <path d="M30.8,41.8974359 L2.2,41.8974359 C0.9845,41.8974359 0,40.910641 0,39.6923077 L0,2.20512821 C0,0.986794872 0.9845,0 2.2,0 L30.8,0 C32.0155,0 33,0.986794872 33,2.20512821 L33,39.6923077 C33,40.910641 32.0155,41.8974359 30.8,41.8974359 L30.8,41.8974359 Z" id="Shape" fill="#FFC107"></path>
+                                    <rect id="Rectangle-path" fill="#BA8C05" x="0" y="15.4358974" width="33" height="1.1025641"></rect>
+                                    <path d="M4.4,3.30769231 L4.4,3.30769231 C3.7928,3.30769231 3.3,3.80164103 3.3,4.41025641 L3.3,12.1282051 C3.3,12.7368205 3.7928,13.2307692 4.4,13.2307692 L4.4,13.2307692 C5.0072,13.2307692 5.5,12.7368205 5.5,12.1282051 L5.5,4.41025641 C5.5,3.80164103 5.0072,3.30769231 4.4,3.30769231 L4.4,3.30769231 Z" id="Shape" fill="#263238"></path>
+                                    <path d="M4.4,20.9487179 L4.4,20.9487179 C3.7928,20.9487179 3.3,21.4426667 3.3,22.0512821 L3.3,34.1794872 C3.3,34.7881026 3.7928,35.2820513 4.4,35.2820513 L4.4,35.2820513 C5.0072,35.2820513 5.5,34.7881026 5.5,34.1794872 L5.5,22.0512821 C5.5,21.4426667 5.0072,20.9487179 4.4,20.9487179 L4.4,20.9487179 Z" id="Shape" fill="#263238"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

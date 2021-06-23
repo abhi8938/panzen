@@ -1,0 +1,105 @@
+.orders_parent {
+    width: 97%;
+}
+
+.orders_parent .top_tab {
+    display: flex;
+    flex-direction: row;
+    width: 30%;
+    align-self: center;
+    margin-bottom: 5vh;
+}
+
+.orders_parent .top_tab li {
+    width: 40%;
+}
+
+.orders_parent > div:last-child > div:first-child {
+    margin-bottom: 2vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.orders_parent .supplier_entry_style {
+    display: inline-grid;
+    grid-template-columns: 20% 20% 20% 18% 14%;
+    justify-content: space-between;
+    width: 98.5%;
+    padding-left: 1.5%;
+}
+
+.orders_parent > div:last-child {
+    display: flex;
+    flex-direction: column;
+    width: 97%;
+    border: solid 1.1px rgba(39, 49, 66, 0.5);
+    background-color: rgba(39, 49, 66, 0.5);
+    padding: 3.5vmin;
+    align-items: center;
+    min-height: 80vh;
+}
+
+.orders_parent > div:last-child > div:nth-child(2) {
+    width: 100%;
+}
+
+.orders_parent > div:last-child > div:nth-child(2) > .ordersListFrame {
+    display: inline-grid;
+    grid-template-columns: 18% 18% 20% 15% 18% 10%;
+    width: 95%;
+    padding-left: 4%;
+}
+
+.orders_parent > div:last-child > div:first-child > div:nth-child(2) {
+    width: 35%;
+    height: 11vh;
+    border: solid 1px rgba(49, 61, 79, 0.4);
+    background-color: rgba(39, 49, 66, 0.7);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-self: flex-end;
+    text-align: center;
+    font-size: 2.1vmin;
+    font-family: CircularStd;
+    font-weight: 500;
+}
+
+.orders_parent .orders_grid_style {
+    display: inline-grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    justify-content: space-between;
+    width: 95%;
+    padding-left: 4%;
+}
+
+.orders_parent .orders_grid_style > div:last-child {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-self: flex-end;
+}
+
+.orders_parent .orders_grid_style > div:last-child img {
+    width: 4vmin;
+    height: 4vmin;
+    margin-right: 2vmin;
+}
+
+.orders_parent .orders_grid_style > div:last-child .invoice_button {
+    width: 60%;
+    height: 7vmin;
+    border-radius: 5.5px;
+    border: solid 1px rgba(230, 230, 230, 0.5);
+    background-color: #2ab5ca;
+    color: #1c2531;
+    font-family: CircularStd;
+    font-size: 2.2vmin;
+    font-weight: 500;
+    cursor: pointer;
+}
+

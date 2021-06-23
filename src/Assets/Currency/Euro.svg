@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Euro</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="finance" transform="translate(-43.000000, -113.000000)">
+            <g id="Euro" transform="translate(43.000000, 113.000000)">
+                <g id="Layer_1">
+                    <circle id="Oval" fill="#3F51B5" cx="19" cy="19" r="19"></circle>
+                    <path d="M22.152,22.176 L17.305,22.176 C17.334,22.986 17.305,26.445 21.747,26.445 C23.216,26.445 24.496,25.996 24.496,25.996 L25.017,29.498 C25.017,29.498 23.233,29.918 21.313,29.918 C13.813,29.918 12.935,23.926 12.949,22.177 L10.504,22.177 L10.504,19.978 L12.949,19.978 L12.949,18.184 L10.504,18.184 L10.504,15.985 L12.978,15.985 C13.065,14.721 13.704,8.302 21.602,8.302 C23.329,8.302 25.017,8.751 25.017,8.751 L24.496,12.267 C24.496,12.267 23.304,11.804 21.819,11.804 C17.624,11.804 17.443,15.119 17.333,15.986 L22.151,15.986 L22.151,18.185 L17.304,18.185 L17.304,19.979 L22.151,19.979 L22.151,22.176 L22.152,22.176 Z" id="Shape" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

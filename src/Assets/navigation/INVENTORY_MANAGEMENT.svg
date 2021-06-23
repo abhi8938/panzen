@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="34px" viewBox="0 0 32 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ICON</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="8.MAIN-UI---SMART-OVERVIEW" transform="translate(-37.000000, -720.000000)">
+            <g id="LEFT-HANDLE">
+                <g id="5.-INVENTORY-MANAGEMENT-2" transform="translate(0.000000, 691.000000)">
+                    <g id="INVENTORY-MANAGEMENT" transform="translate(0.000000, 20.000000)">
+                        <g id="INVENTORY">
+                            <g id="ICON" transform="translate(37.000000, 9.516129)">
+                                <g id="Group">
+                                    <g id="Circle_Shadow_2_" transform="translate(0.000000, 1.032258)" fill="#416894">
+                                        <circle id="Oval" cx="16" cy="16" r="16"></circle>
+                                    </g>
+                                    <g id="Circle_2_" fill="#4C58AE">
+                                        <circle id="Oval" cx="16" cy="16" r="16"></circle>
+                                    </g>
+                                    <path d="M7.01935484,23.4516129 L16.0516129,32.483871 C24.4645161,32.4322581 31.3806452,25.8774194 31.9483871,17.5677419 L24.9806452,10.6 L7.01935484,23.4516129 L7.01935484,23.4516129 Z" id="Long_Shadow_3_" fill="#000000" opacity="0.15"></path>
+                                    <path d="M24.2580645,9.80645161 L12.9032258,9.80645161 L10.8387097,7.74193548 L6.70967742,7.74193548 L6.70967742,9.80645161 L6.70967742,22.1935484 C6.76129032,22.8129032 7.22580645,23.2774194 7.74193548,23.2258065 L24.2580645,23.2258065 C24.8258065,23.2258065 25.2903226,22.7612903 25.2903226,22.1935484 L25.2903226,10.8387097 C25.2903226,10.2709677 24.8258065,9.80645161 24.2580645,9.80645161 L24.2580645,9.80645161 Z" id="Folder" fill="#EDC03D"></path>
+                                    <g id="Line" opacity="0.149" transform="translate(6.709677, 21.161290)" fill="#344E5F">
+                                        <g id="Group">
+                                            <rect id="Rectangle-path" x="0" y="0" width="18.5806452" height="1.03225806"></rect>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

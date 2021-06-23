@@ -1,0 +1,230 @@
+.employee_entry_fields {
+    margin-top: 11vmin;
+    padding-bottom: 5vmin;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.employee_entry_fields > div:first-child {
+    padding-left: 4vmin;
+    display: inline-grid;
+    grid-template-columns: 50% 50%;
+}
+
+.employee_entry_fields .entryField {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: CircularStd;
+    font-size: 1.6vmin;
+    width: 90%;
+    margin-bottom: 1vmin;
+    margin-top: 1vmin;
+}
+
+.employee_entry_fields .entryField > text:first-child {
+    font-family: CircularStd;
+    font-size: 1.7vmin;
+    line-height: 2.31;
+    font-weight: 500;
+    color: #1f2835;
+}
+
+.employee_entry_fields .entryField_input {
+    width: 90%;
+    height: 5vmin;
+    border-radius: 10px;
+    border: solid 0.5px #747474;
+    background-color: #222c3c;
+    color: rgba(255, 255, 255, 0.4);
+    padding-left: 2vmin;
+    font-size: 1.5vmin;
+    font-weight: 500;
+}
+
+.employee_entry_fields > div:first-child .entryField_input_address {
+    width: 90%;
+    height: 11vmin;
+    border-radius: 10px;
+    border: solid 0.5px #747474;
+    background-color: #222c3c;
+    color: rgba(255, 255, 255, 0.4);
+    padding-left: 2vmin;
+    font-size: 1.5vmin;
+    font-weight: 500;
+}
+
+.employee_entry_fields .entryField_input_address:focus {
+    outline-style: none;
+
+}
+
+.employee_entry_fields .entryField_input:focus {
+    outline-style: none;
+}
+
+.employee_entry_fields .entryField_input_blank {
+    opacity: 0;
+    cursor: default;
+    display: none;
+
+}
+
+.employee_entry_fields .employeeEntry_accountDetails {
+    padding-left: 4vmin;
+    display: inline-grid;
+    grid-template-columns: 60% 35%;
+    padding-top: 3vmin;
+}
+
+.employee_entry_fields .employeeEntry_accountDetails > div:first-child > text:first-child {
+    font-family: CircularStd;
+    font-size: 1.7vmin;
+    line-height: 2.31;
+    font-weight: 500;
+    color: #1f2835;
+}
+.employee_entry_fields .employeeEntry_accountDetails > div:nth-child(2) {
+    display: flex;
+    align-items: center;
+}
+
+.employee_entry_fields .entryField_accounts {
+    display: flex;
+    flex-direction: row;
+    font-family: CircularStd;
+    line-height: 2.31;
+    font-weight: 500;
+    font-size: 1.7vmin;
+    width: 90%;
+    margin-bottom: 1vmin;
+    margin-top: 1vmin;
+    color: #1f2835;
+}
+
+.employee_entry_fields .entryField_accounts > text:first-child {
+    width: 35%;
+}
+
+.employee_entry_fields .entryField_accounts > div:nth-child(2) {
+    width: 65%;
+}
+
+
+.employee_entry_fields .entryField_accounts_input {
+    width: 100%;
+    height: 4vmin;
+    border-radius: 10px;
+    border: solid 0.5px #747474;
+    background-color: #222c3c;
+    color: rgba(255, 255, 255, 0.4);
+    padding-left: 2vmin;
+    font-size: 1.5vmin;
+    font-weight: 500;
+    align-self: flex-end;
+}
+
+.employee_entry_fields .entryField_accounts_input:focus {
+    outline-style: none;
+}
+
+.employee_entry_fields .employee_entryDropDown {
+    color: black;
+    display: flex;
+    flex-direction: column;
+    font-family: CircularStd;
+    font-size: 1.6vmin;
+    width: 90%;
+    margin-bottom: 1vmin;
+    align-self: center;
+}
+
+.employee_entry_fields .employee_entryDropDown > text:first-child {
+    margin-top: 1.5vmin;
+    margin-bottom: .8vmin;
+}
+
+.employee_entry_fields .employee_entryDropDown > div:nth-child(2) {
+    width: 85%;
+    border-radius: 10px;
+    border: solid 0.5px #747474;
+    background-color: #222c3c;
+    color: rgba(255, 255, 255, 0.4);
+    padding-left: 2vmin;
+    font-size: 1.5vmin;
+    font-weight: 500;
+    height: 3.1vmin;
+    justify-content: space-between;
+    padding-right: 2vmin;
+}
+
+.employee_entry_fields .employee_entryDropDown > ul {
+    width: 95%;
+    right: 1.5vmin;
+    top: 10.5vmin
+}
+
+.employee_entry_fields > .button {
+    width: 20%;
+    height: 5vh;
+    font-family: CircularStd;
+    font-size: 1.7vmin;
+    font-weight: normal;
+    text-align: center;
+    color: #1a2532;
+    border-radius: 25px;
+    background-color: #ffd600;
+    cursor: pointer;
+    border-width: 0;
+    -webkit-transition: background-color 0.3s ease-in-out;
+    transition: background-color 0.3s ease-in-out;
+    box-shadow: 0 14px 14px 0 rgba(0, 0, 0, 0.1);
+    align-self: center;
+    margin-top: 2vmin;
+}
+
+.employee_entry_fields .entryField .entryField_payScale_input{
+    width: 80%;
+    height: 4.5vmin;
+    border-radius: 10px;
+    border: solid 0.5px #747474;
+    background-color: #222c3c;
+    color: rgba(255, 255, 255, 0.4);
+    padding-left: 1.5vmin;
+    font-size: 1.5vmin;
+    font-weight: 500;
+}
+.employee_entry_fields .entryField .entryField_payScale_input:focus {
+    outline-style: none;
+}
+.employee_entry_fields .employee_entryDropDown_payscale{
+    color: black;
+    display: flex;
+    flex-direction: column;
+    font-family: CircularStd;
+    font-size: 1.6vmin;
+    width: 60%;
+    margin-bottom: 1vmin;
+    align-self: center;
+}
+.employee_entry_fields .employee_entryDropDown_payscale > div:nth-child(2) {
+    width: 85%;
+    border-radius: 10px;
+    border: solid 0.5px #747474;
+    background-color: #222c3c;
+    color: rgba(255, 255, 255, 0.4);
+    padding-left: 2vmin;
+    font-size: 1.5vmin;
+    font-weight: 500;
+    height: 2.8vmin;
+    justify-content: space-between;
+    padding-right: 2vmin;
+    margin-top: 3.2vmin;
+}
+
+.employee_entry_fields .employee_entryDropDown_payscale > ul {
+    width: 110%;
+    left: .5vmin;
+    top: 10vmin
+}

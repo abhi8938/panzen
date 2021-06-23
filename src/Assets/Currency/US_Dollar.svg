@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>US_Dollar</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="finance" transform="translate(-669.000000, -113.000000)">
+            <g id="US_Dollar" transform="translate(669.000000, 113.000000)">
+                <g id="Layer_1">
+                    <circle id="Oval" fill="#4CAF50" cx="19" cy="19" r="19"></circle>
+                    <path d="M21.972,24.13 C21.972,22.012 20.164,21.439 18.216,20.575 C15.522,19.38 12.628,18.361 12.628,14.146 C12.628,12.78 13.065,8.975 18.369,8.289 L18.369,5.179 L20.694,5.179 L20.694,8.333 C25.389,9.143 26.079,12.662 26.173,15.091 L21.973,15.091 C21.988,12.595 20.826,11.618 19.328,11.618 C16.87,11.618 16.828,13.803 16.828,14.161 C16.828,18.521 26.173,16.905 26.173,24.102 C26.173,29.162 21.261,29.843 20.389,29.93 L20.389,32.822 L18.078,32.822 L18.078,29.944 C17.274,29.857 11.829,29.364 11.829,23.055 L16.029,23.055 C16.029,26.72 18.814,26.63 19.212,26.63 C19.666,26.63 21.972,26.518 21.972,24.13 L21.972,24.13 Z" id="Shape" fill="#FDFDFD"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

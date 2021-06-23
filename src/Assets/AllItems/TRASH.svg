@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="34px" viewBox="0 0 24 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>TRASH</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="15.1-MAIN-UI---ALL-ITEMS" transform="translate(-614.000000, -931.000000)" stroke-width="1.12">
+            <g id="ITEMS" transform="translate(293.000000, 203.000000)">
+                <g id="FOOD" transform="translate(19.000000, 189.000000)">
+                    <g id="APPETIZERS" transform="translate(2.000000, 0.000000)">
+                        <g id="ITEM-1" transform="translate(0.000000, 118.677591)">
+                            <g id="REMOVE" transform="translate(20.000000, 420.993140)">
+                                <g id="TRASH" transform="translate(281.000000, 0.000000)">
+                                    <path d="M5.87999999,3.84765243 L5.87999999,3.49786585 C5.87999999,1.57403963 7.13999998,0 8.67999998,0 L12.88,0 C14.42,0 15.68,1.57403963 15.68,3.49786585 L15.68,3.84765243" id="Path" stroke="#C39215" fill="#FFE53C" fill-rule="nonzero"></path>
+                                    <path d="M20.44,9.79402437 L18.956,29.6269237 C18.844,31.0610487 17.892,32.1803658 16.716,32.1803658 L5.12399999,32.1803658 C3.97599999,32.1803658 2.99599999,31.0960274 2.88399999,29.6269237 L1.4,9.79402437" id="Path" stroke="#6D6E71" fill="#939598" fill-rule="nonzero"></path>
+                                    <path d="M12.04,9.79402437 L1.12,9.79402437 C0.503999999,9.79402437 0,9.16440852 0,8.39487803 L0,6.99573169 C0,5.45667072 1.008,4.19743902 2.24,4.19743902 L19.6,4.19743902 C20.832,4.19743902 21.84,5.45667072 21.84,6.99573169 L21.84,8.39487803 C21.84,9.16440852 21.336,9.79402437 20.72,9.79402437 L20.44,9.79402437" id="Path" stroke="#6D6E71" fill="#818287" fill-rule="nonzero"></path>
+                                    <line x1="14.56" y1="9.79402437" x2="15.4" y2="9.79402437" id="Path" stroke="#6D6E71" fill="#939598" fill-rule="nonzero"></line>
+                                    <line x1="6.99999999" y1="27.2833536" x2="6.43999999" y2="13.9914634" id="Path" stroke="#FDFEFF"></line>
+                                    <line x1="10.92" y1="27.2833536" x2="10.92" y2="13.9914634" id="Path" stroke="#FDFEFF"></line>
+                                    <line x1="14.84" y1="27.2833536" x2="15.4" y2="13.9914634" id="Path" stroke="#FDFEFF"></line>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

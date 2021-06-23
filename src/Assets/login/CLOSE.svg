@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="49px" viewBox="0 0 49 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.1 (89650) - https://sketch.com -->
+    <title>CLOSE</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FORGOT-PASSWORD" transform="translate(-420.000000, -201.000000)">
+            <g transform="translate(390.000000, 173.000000)" id="CLOSE">
+                <g transform="translate(29.000000, 27.000000)">
+                    <path d="M25.156158,1.343595 C38.410905,1.343595 49.15584,12.088836 49.15584,25.343583 C49.15584,38.598687 38.410905,49.34352 25.156158,49.34352 C11.901411,49.34352 1.156272,38.598687 1.156272,25.343583 C1.156272,12.088836 11.901411,1.343595 25.156158,1.343595 Z" id="btn" fill-opacity="0.64" fill="#DDDDDD"></path>
+                    <path d="M31.382134,17.824624 L32.746912,19.189474 L26.604,25.333 L32.746912,31.476256 L31.382134,32.84197 L25.24,26.697 L19.097944,32.84197 L17.733148,31.476256 L23.875,25.333 L17.733148,19.189474 L19.097944,17.824624 L25.24,23.968 L31.382134,17.824624 Z" id="close" fill="#AAAAAA"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

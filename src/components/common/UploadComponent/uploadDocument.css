@@ -1,0 +1,105 @@
+.upload_component {
+    width: 370px;
+    height: 320px;
+    border-radius: 20px;
+    background-color: #1c2a43;
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 5vh;
+}
+
+.upload_component > text:first-child {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: #d47522;
+    text-align: center;
+    font-family: CircularStd;
+    font-size: 1.7vmin;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: white;
+    height: 10%;
+    padding-top: 4%;
+}
+
+.upload_component > div:nth-child(2) {
+    padding: 2.5vmin;
+    height: 70%;
+}
+
+.upload_component > div:nth-child(2) > div:first-child {
+    border-radius: 2.4px;
+    border: dashed 2.8px rgba(255, 255, 255, 0.25);
+    height: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.upload_component > div:nth-child(2) > div:first-child > img:nth-child(2) {
+    margin-top: 2vmin;
+}
+
+.upload_component > div:nth-child(2) > div:first-child > text:last-child {
+    font-family: Lato;
+    font-size: 1.2vmin;
+    line-height: 1.36;
+    text-align: center;
+    color: #7f8fa4;
+    margin-top: 2vmin;
+}
+
+.upload_component > div:nth-child(2) > div:first-child > text:last-child > a {
+    color: #0f71e2;
+    text-underline: #0f71e2;
+    text-decoration: underline;
+
+}
+
+.custom-file-input::-webkit-file-upload-button {
+    visibility: hidden;
+}
+
+.custom-file-input {
+    cursor: pointer;
+    position: absolute;
+    padding-left: 1vmin;
+    font-size: 1.2vmin;
+    width: 30vmin;
+    height: 20vmin;
+    color: transparent;
+}
+
+.upload_component .upload {
+    width: 30%;
+    height: 3vh;
+    border-radius: 25px;
+    background-color: #0f7fe2;
+    cursor: pointer;
+    margin-bottom: 2vmin;
+    box-shadow: 0 24px 24px 0 rgba(0, 0, 0, 0.1);
+    font-size: 1.2vmin;
+    letter-spacing: 1.43px;
+    border: 0;
+    color: white;
+    font-weight: 500;
+    text-align: center;
+    -webkit-transition: background-color 0.3s ease-in-out;
+    transition: background-color 0.3s ease-in-out;
+    margin-top: 1vmin;
+    align-self: center;
+}
+
+.upload_component_Modal {
+    width: 52%;
+    height: 36vh;
+    margin-top: 2vmin;
+}
+.upload_component_Modal > div:nth-child(2) > div:first-child > img:nth-child(2) {
+    margin-top: 2vmin;
+}

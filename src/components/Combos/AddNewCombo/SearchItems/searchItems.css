@@ -1,0 +1,83 @@
+.searchItems_parent {
+    position: relative;
+    font-family: CircularStd;
+    align-self: start;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.searchItems_parent > .searchBar_parent {
+    align-self: flex-end;
+    margin-bottom: 3vmin;
+}
+
+
+.searchItems_parent > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    right: 0px;
+    top: 6.5vmin;
+    width: 19vw;
+    border-radius: 8px;
+    box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.5);
+    font-weight: normal;
+    position: absolute;
+    z-index: 1;
+    background-color: #222c3c;
+}
+
+.searchItems_parent > ul li {
+    cursor: pointer;
+    height: 5.8vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 2vmin;
+    margin-bottom: .5vmin;
+    transition: all 0.4s;
+    -webkit-transition: all 0.4s;
+}
+
+.searchItems_parent > .selectedItems_class {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 1vmin;
+}
+.searchItems_parent > .selectedItems_class > img:last-child {
+    width: 3vmin;
+    height: 4vmin;
+    margin-top: 2vmin;
+    cursor: pointer;
+}
+
+.searchItems_parent > .selectedItems_class > div:first-child {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 70%;
+}
+
+.searchItems_parent > .selectedItems_class > div:first-child > text:last-child {
+    width: 90%;
+    height: 4vmin;
+    border-radius: 10px;
+    border: solid 1px #747474;
+    background-color: #222c3c;
+    opacity: 0.4;
+    padding-top: 1.5vmin;
+    padding-left: 2vmin;
+    font-family: CircularStd;
+    font-size: 1.9vmin;
+    margin-top: 1vmin;
+    color: white;
+}
+
+.searchItems_parent > ul li:hover {
+    background-color: rgba(251, 214, 53, 0.5);
+    border-radius: 8px;
+}

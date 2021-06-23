@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ASCENDING</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="24.3-MAIN-UI---CUSTOMER-ANALYTICS-(-SORTING)" transform="translate(-617.000000, -3335.000000)">
+            <g id="4.PRODUCT-RATING" transform="translate(313.000000, 3204.000000)">
+                <g id="NOTIFICATION-BAR" transform="translate(284.000000, 68.000000)">
+                    <g id="CHEF" transform="translate(0.000000, 48.000000)">
+                        <g id="ASCENDING" transform="translate(20.000000, 15.000000)">
+                            <g>
+                                <rect id="Rectangle-path" fill="#673AB7" x="0" y="21.6666667" width="30" height="8.33333333"></rect>
+                                <rect id="Rectangle-path" fill="#B0BEC5" x="0" y="10" width="30" height="8.33333333"></rect>
+                                <rect id="Rectangle-path" fill="#673AB7" x="12.5" y="5" width="5" height="21.6666667"></rect>
+                                <polygon id="Shape" fill="#673AB7" points="15 0 8.33333333 6.66666667 21.6666667 6.66666667"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

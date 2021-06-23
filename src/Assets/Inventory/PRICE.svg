@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>amount</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50.0%" y="-50.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="23.5.1--MAIN-UI---INVENTORY-MANAGEMENT-(INVENTORY-ITEM)" transform="translate(-1003.000000, -1943.000000)">
+            <g id="INVENTORY-MANAGEMENT" transform="translate(293.000000, 233.000000)">
+                <g id="INVENTORY-ITEMS" transform="translate(0.000000, 1174.000000)">
+                    <g id="CREATE-NEW-ITEM" transform="translate(21.000000, 405.000000)">
+                        <g id="PPU" transform="translate(681.000000, 88.000000)">
+                            <g id="ITEM-TAB" transform="translate(0.000000, 35.700000)">
+                                <g id="amount" transform="translate(10.000000, 9.300000)">
+                                    <g id="Coins" filter="url(#filter-1)">
+                                        <g id="Layer_1">
+                                            <circle id="Oval" fill="#FF9800" cx="15" cy="9" r="9"></circle>
+                                            <path d="M15,16.2 C18.9764502,16.2 22.2,12.9764502 22.2,9 C22.2,5.0235498 18.9764502,1.8 15,1.8 C11.0235498,1.8 7.8,5.0235498 7.8,9 C7.8,12.9764502 11.0235498,16.2 15,16.2 Z" id="Oval" stroke="#FFB74D" stroke-dasharray="0.5,1"></path>
+                                            <path d="M12.5328,8.919 L12.9744,5.0298 L17.2632,5.0298 L17.2632,6.2964 L14.22,6.2964 L14.031,7.9416 C14.0838,7.9134 14.1486,7.8828 14.2254,7.8498 C14.3022,7.8168 14.391,7.785 14.4906,7.755 C14.5902,7.725 14.6988,7.7004 14.8164,7.6812 C14.934,7.662 15.0558,7.6524 15.1818,7.6524 C15.5496,7.6524 15.8784,7.7112 16.167,7.8282 C16.4562,7.9458 16.7004,8.1144 16.9002,8.3352 C17.1,8.556 17.2524,8.826 17.3574,9.1446 C17.4624,9.4632 17.5152,9.8244 17.5152,10.2276 C17.5152,10.5672 17.4624,10.8918 17.3574,11.2002 C17.2524,11.5086 17.0928,11.7804 16.8792,12.015 C16.6656,12.2496 16.3968,12.4374 16.0722,12.5772 C15.7482,12.7176 15.3672,12.7872 14.9292,12.7872 C14.5998,12.7872 14.2812,12.7374 13.9728,12.6372 C13.6644,12.537 13.3914,12.3918 13.1526,12.201 C12.9138,12.0102 12.7218,11.7762 12.5742,11.4996 C12.4266,11.223 12.348,10.9074 12.3378,10.5534 L13.8408,10.5534 C13.8726,10.872 13.9836,11.1204 14.1744,11.2974 C14.3652,11.4744 14.6148,11.5626 14.9232,11.5626 C15.1158,11.5626 15.2796,11.526 15.4146,11.4522 C15.5496,11.3784 15.66,11.2788 15.7458,11.1528 C15.8316,11.0268 15.8946,10.8768 15.9348,10.7034 C15.975,10.53 15.9954,10.3434 15.9954,10.1436 C15.9954,9.9438 15.9708,9.7608 15.9216,9.5946 C15.8724,9.4284 15.7974,9.2862 15.6954,9.1686 C15.5934,9.051 15.4656,8.9604 15.312,8.895 C15.1578,8.8302 14.9754,8.7978 14.7654,8.7978 C14.625,8.7978 14.5032,8.8098 14.4,8.8344 C14.2968,8.859 14.2044,8.8902 14.124,8.9292 C14.0436,8.9676 13.9722,9.0126 13.911,9.063 C13.8498,9.114 13.7928,9.1656 13.74,9.2178 L12.5328,8.919 L12.5328,8.919 Z" id="Shape" fill="#FFB74D"></path>
+                                            <circle id="Oval" fill="#FFC107" cx="7.2" cy="16.8" r="7.2"></circle>
+                                            <path d="M7.2,22.2 C10.1823376,22.2 12.6,19.7823376 12.6,16.8 C12.6,13.8176624 10.1823376,11.4 7.2,11.4 C4.21766235,11.4 1.8,13.8176624 1.8,16.8 C1.8,19.7823376 4.21766235,22.2 7.2,22.2 Z" id="Oval" stroke="#FFE082" stroke-dasharray="0.4959000051021576,0.9918000102043152"></path>
+                                            <polygon id="Shape" fill="#FFE082" points="8.1102 19.5618 6.9966 19.5618 6.9966 15.27 5.6676 15.6822 5.6676 14.7768 7.9908 13.9446 8.1102 13.9446"></polygon>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

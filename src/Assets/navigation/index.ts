@@ -1,0 +1,25 @@
+import smart_overview from './SMART_OVERVIEW.svg';
+import all_items from './ALL_ITEMS.svg';
+import combos from './COMBOS.svg';
+import dine_in from './DINE_IN.svg';
+import employee_analytics from './EMPLOYEE_ANALYTICS.svg';
+import favorites from './FAVORITES.svg';
+import inventory_management from './INVENTORY_MANAGEMENT.svg';
+import logout from './LOGOUT.svg';
+import revenue_analytics from './REVENUE_ANALYTICS.svg';
+import customer_analytics from './CUSTOMER_ANALYTICS.svg';
+import online_order from './ONLINE_ORDER.svg';
+import reservation from './RESERVATION.svg';
+
+export const overview = smart_overview;
+export const all_items_icon = all_items;
+export const combos_icon = combos;
+export const dine_in_icon = dine_in;
+export const employee_analytics_icon = employee_analytics;
+export const favorites_icon = favorites;
+export const inventory_management_icon = inventory_management;
+export const logout_icon = logout;
+export const revenue_analytics_icon = revenue_analytics;
+export const customer_analytics_icon = customer_analytics;
+export const online_order_icon = online_order;
+export const reservation_icon = reservation;

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="46px" viewBox="0 0 36 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>MENU ITEMS</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="23.1-MAIN-UI---INVENTORY-MANAGEMENT" transform="translate(-971.000000, -255.000000)">
+            <g id="INVENTORY-MANAGEMENT" transform="translate(293.000000, 203.000000)">
+                <g id="TOP-TOOLBAR" transform="translate(23.000000, 30.000000)">
+                    <g id="INVENTORY" transform="translate(427.000000, 10.000000)">
+                        <g id="MENU-ITEMS" transform="translate(206.000000, 5.000000)">
+                            <g transform="translate(22.000000, 7.000000)">
+                                <g>
+                                    <rect id="Rectangle-path" fill="#FF5722" x="0" y="3.60000014" width="36.0000014" height="42.0000017"></rect>
+                                    <rect id="Rectangle-path" fill="#FFFFFF" x="2.4000001" y="6.00000024" width="31.2000012" height="37.2000015"></rect>
+                                    <circle id="Oval" fill="#607D8B" cx="18.0000007" cy="3.60000014" r="3.60000014"></circle>
+                                    <rect id="Rectangle-path" fill="#607D8B" x="9.60000038" y="3.60000014" width="16.8000007" height="4.80000019"></rect>
+                                    <rect id="Rectangle-path" fill="#2196F3" x="15.6000006" y="15.6000006" width="13.2000005" height="2.4000001"></rect>
+                                    <rect id="Rectangle-path" fill="#2196F3" x="7.20000029" y="13.2000005" width="6.00000024" height="6.00000024"></rect>
+                                    <rect id="Rectangle-path" fill="#B0BEC5" x="15.6000006" y="24.000001" width="13.2000005" height="2.4000001"></rect>
+                                    <rect id="Rectangle-path" fill="#B0BEC5" x="7.20000029" y="21.6000009" width="6.00000024" height="6.00000024"></rect>
+                                    <rect id="Rectangle-path" fill="#B0BEC5" x="15.6000006" y="32.4000013" width="13.2000005" height="2.4000001"></rect>
+                                    <rect id="Rectangle-path" fill="#B0BEC5" x="7.20000029" y="30.0000012" width="6.00000024" height="6.00000024"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="133px" height="46px" viewBox="0 0 133 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>5 STAR</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="216.000003" height="47.5200006"></rect>
+        <path d="M21.6000003,32.4000004 L9.87231364,38.5656102 C9.60833756,38.7043906 9.2818389,38.6028995 9.14305846,38.3389234 C9.08779536,38.2338067 9.06872543,38.113404 9.08880093,37.9963549 L11.3285898,24.9373839 L11.3285898,24.9373839 L1.84069198,15.6889693 C1.62713084,15.4807986 1.622761,15.1389174 1.83093165,14.9253563 C1.9138263,14.8403151 2.0224432,14.7849721 2.1399672,14.7678948 L15.2519195,12.8626166 L15.2519195,12.8626166 L20.1472878,2.94351695 C20.5432519,2.14120602 21.5146458,1.81179683 22.3169567,2.20776095 C22.6364412,2.36543594 22.8950378,2.62403253 23.0527127,2.94351695 L27.9480811,12.8626166 L27.9480811,12.8626166 L41.0600334,14.7678948 C41.3551676,14.8107803 41.5596556,15.0847995 41.5167701,15.3799337 C41.4996928,15.4974577 41.4443498,15.6060746 41.3593086,15.6889693 L31.8714108,24.9373839 L31.8714108,24.9373839 L34.1111996,37.9963549 C34.1616146,38.2902965 33.9641972,38.5694528 33.6702555,38.6198677 C33.5532064,38.6399432 33.4328036,38.6208733 33.3276869,38.5656102 L21.6000003,32.4000004 L21.6000003,32.4000004 Z" id="path-3"></path>
+        <filter x="-12.3%" y="-11.5%" width="129.3%" height="121.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M21.6000003,32.4000004 L9.87231364,38.5656102 C9.60833756,38.7043906 9.2818389,38.6028995 9.14305846,38.3389234 C9.08779536,38.2338067 9.06872543,38.113404 9.08880093,37.9963549 L11.3285898,24.9373839 L11.3285898,24.9373839 L1.84069198,15.6889693 C1.62713084,15.4807986 1.622761,15.1389174 1.83093165,14.9253563 C1.9138263,14.8403151 2.0224432,14.7849721 2.1399672,14.7678948 L15.2519195,12.8626166 L15.2519195,12.8626166 L20.1472878,2.94351695 C20.5432519,2.14120602 21.5146458,1.81179683 22.3169567,2.20776095 C22.6364412,2.36543594 22.8950378,2.62403253 23.0527127,2.94351695 L27.9480811,12.8626166 L27.9480811,12.8626166 L41.0600334,14.7678948 C41.3551676,14.8107803 41.5596556,15.0847995 41.5167701,15.3799337 C41.4996928,15.4974577 41.4443498,15.6060746 41.3593086,15.6889693 L31.8714108,24.9373839 L31.8714108,24.9373839 L34.1111996,37.9963549 C34.1616146,38.2902965 33.9641972,38.5694528 33.6702555,38.6198677 C33.5532064,38.6399432 33.4328036,38.6208733 33.3276869,38.5656102 L21.6000003,32.4000004 L21.6000003,32.4000004 Z" id="path-5"></path>
+        <filter x="-12.3%" y="-11.5%" width="129.3%" height="121.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M12.4200002,18.9000003 L14.0027322,22.3820108 C14.400059,23.2561296 14.0135426,24.2868398 13.1394238,24.6841665 C12.9134875,24.7868649 12.668182,24.8400003 12.4200002,24.8400003 C11.4598168,24.8400003 10.6814343,24.0616179 10.6814343,23.1014345 C10.6814343,22.8532527 10.7345697,22.6079472 10.8372681,22.3820108 L12.4200002,18.9000003 L12.4200002,18.9000003 Z" id="path-7"></path>
+        <filter x="-56.3%" y="-67.3%" width="249.6%" height="268.4%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M21.6000003,32.4000004 L9.87231364,38.5656102 C9.60833756,38.7043906 9.2818389,38.6028995 9.14305846,38.3389234 C9.08779536,38.2338067 9.06872543,38.113404 9.08880093,37.9963549 L11.3285898,24.9373839 L11.3285898,24.9373839 L1.84069198,15.6889693 C1.62713084,15.4807986 1.622761,15.1389174 1.83093165,14.9253563 C1.9138263,14.8403151 2.0224432,14.7849721 2.1399672,14.7678948 L15.2519195,12.8626166 L15.2519195,12.8626166 L20.1472878,2.94351695 C20.5432519,2.14120602 21.5146458,1.81179683 22.3169567,2.20776095 C22.6364412,2.36543594 22.8950378,2.62403253 23.0527127,2.94351695 L27.9480811,12.8626166 L27.9480811,12.8626166 L41.0600334,14.7678948 C41.3551676,14.8107803 41.5596556,15.0847995 41.5167701,15.3799337 C41.4996928,15.4974577 41.4443498,15.6060746 41.3593086,15.6889693 L31.8714108,24.9373839 L31.8714108,24.9373839 L34.1111996,37.9963549 C34.1616146,38.2902965 33.9641972,38.5694528 33.6702555,38.6198677 C33.5532064,38.6399432 33.4328036,38.6208733 33.3276869,38.5656102 L21.6000003,32.4000004 L21.6000003,32.4000004 Z" id="path-9"></path>
+        <filter x="-12.3%" y="-11.5%" width="129.3%" height="121.7%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="8.MAIN-UI---SMART-OVERVIEW" transform="translate(-594.000000, -2195.000000)">
+            <g id="PRODUCT-RATING" transform="translate(312.000000, 1844.000000)">
+                <g id="PRODUCTS" transform="translate(21.000000, 104.000000)">
+                    <g id="ITEM-4" transform="translate(19.000000, 246.000000)">
+                        <g id="5-STAR" transform="translate(242.000000, 1.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Background"></g>
+                            <g id="1ST-STAR" mask="url(#mask-2)">
+                                <g transform="translate(0.000000, 1.620000)">
+                                    <g id="Star" stroke="none" fill="none">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                        <use fill="#D6593C" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                    </g>
+                                    <line x1="12.6900002" y1="15.2750313" x2="17.2800002" y2="17.8200002" id="Line" stroke="#706C6C" stroke-width="1.08000001" fill="none" stroke-linecap="round" transform="translate(14.850000, 16.470000) rotate(-12.006592) translate(-14.850000, -16.470000) "></line>
+                                    <line x1="25.6500003" y1="15.2750313" x2="30.2400004" y2="17.8200002" id="Line" stroke="#706C6C" stroke-width="1.08000001" fill="none" stroke-linecap="round" transform="translate(27.810000, 16.470000) scale(-1, 1) rotate(-12.006592) translate(-27.810000, -16.470000) "></line>
+                                    <rect id="Rectangle" stroke="none" fill="#706C6C" fill-rule="evenodd" transform="translate(21.674422, 24.829541) rotate(-16.000000) translate(-21.674422, -24.829541) " x="5.47442216" y="20.5095409" width="32.4000004" height="8.64000011" rx="1.62000002"></rect>
+                                    <text id="AARGHH!!!" stroke="none" fill="none" transform="translate(21.525578, 24.310460) rotate(-16.000000) translate(-21.525578, -24.310460) " font-family="Arciform, Arciform Sans" font-size="5.94000008" font-weight="normal" letter-spacing="0.297000004">
+                                        <tspan x="8.23185802" y="24.9904596" fill="#E0DEDE">AARGHH!!!</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="2ND-STAR" mask="url(#mask-2)">
+                                <g transform="translate(43.200001, 1.620000)">
+                                    <g id="Star" stroke="none" fill="none">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                        <use fill="#F6C652" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                    </g>
+                                    <rect id="Rectangle" stroke="none" fill="#706C6C" fill-rule="evenodd" x="16.7400002" y="19.9800003" width="9.72000013" height="5.40000007" rx="2.70000004"></rect>
+                                    <path d="M13.5744431,15.7505051 C14.1459924,16.5391291 14.8897041,17.1441468 15.8055783,17.5655584 C16.7214525,17.98697 17.8173267,18.2283815 19.0932009,18.2897931" id="Path" stroke="#706C6C" stroke-width="1.08000001" fill="none" stroke-linecap="round"></path>
+                                    <path d="M24.3744433,15.7505051 C24.9459925,16.5391291 25.6897042,17.1441468 26.6055784,17.5655584 C27.5214526,17.98697 28.6173269,18.2283815 29.8932011,18.2897931" id="Path" stroke="#706C6C" stroke-width="1.08000001" fill="none" stroke-linecap="round" transform="translate(27.133822, 17.020149) scale(-1, 1) translate(-27.133822, -17.020149) "></path>
+                                    <g id="Rectangle" stroke="none" fill="none">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                        <use fill="#528DC0" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="3RD-STAR" mask="url(#mask-2)">
+                                <g transform="translate(86.400001, 1.620000)">
+                                    <g id="Star-Copy" stroke="none" fill="none">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                                        <use fill="#F6C652" fill-rule="evenodd" xlink:href="#path-9"></use>
+                                    </g>
+                                    <ellipse id="Oval" stroke="none" fill="#706C6C" fill-rule="evenodd" cx="21.3300003" cy="21.8700003" rx="2.43000003" ry="1.89000003"></ellipse>
+                                    <line x1="12.6900002" y1="15.2750313" x2="17.2800002" y2="17.8200002" id="Line" stroke="#706C6C" stroke-width="1.08000001" fill="none" stroke-linecap="round" transform="translate(14.850000, 16.470000) rotate(-12.006592) translate(-14.850000, -16.470000) "></line>
+                                    <line x1="25.6500003" y1="15.2750313" x2="30.2400004" y2="17.8200002" id="Line" stroke="#706C6C" stroke-width="1.08000001" fill="none" stroke-linecap="round" transform="translate(27.810000, 16.470000) scale(-1, 1) rotate(-12.006592) translate(-27.810000, -16.470000) "></line>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="16px" viewBox="0 0 22 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>MAIL</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="23.2.1-MAIN-UI---INVENTORY-MANAGEMENT-(SUPPLIER)" transform="translate(-810.000000, -520.000000)">
+            <g id="INVENTORY-MANAGEMENT" transform="translate(293.000000, 233.000000)">
+                <g id="CREATE-NEW-SUPPLIER" transform="translate(0.000000, 150.000000)">
+                    <g id="DATE" transform="translate(506.100000, 88.050000)">
+                        <g id="MAIL-TAG" transform="translate(0.000000, 35.700000)">
+                            <g id="MAIL" transform="translate(10.900000, 13.250000)">
+                                <g>
+                                    <rect id="Rectangle-path" fill="#00BCD4" transform="translate(11.000000, 9.230769) rotate(180.000000) translate(-11.000000, -9.230769) " x="0" y="2.46153846" width="22" height="13.5384615"></rect>
+                                    <polygon id="Shape" fill="#00ACC1" points="0 1.84615385 22 1.84615385 22 3.07692308 11 11.6923077 0 3.07692308"></polygon>
+                                    <polygon id="Shape" fill="#4DD0E1" points="0 0 22 0 22 2.46153846 11 9.84615385 0 2.46153846"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,400 @@
+.customer_analytics {
+    display: flex;
+    flex-direction: column;
+    padding: 3.6vmin 3.8vmin 6vmin 3.8vmin;
+}
+
+.customer_analytics > div:first-child {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 6vh;
+}
+
+.customer_analytics > .headerClass {
+    display: flex;
+    flex-direction: row;
+    width: 98%;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 4.5vh;
+}
+
+.customer_analytics .headerClass text {
+    font-family: CircularStd;
+    font-size: 2.5vmin;
+    font-weight: 500;
+    color: white;
+}
+
+.customer_analytics > div:nth-child(3) {
+    display: grid;
+    grid-template-columns: 28% 28% 28%;
+    justify-content: space-between;
+    width: 95%;
+    margin-bottom: 5vh;
+}
+
+.customer_analytics .headerClass:nth-child(8) > div:first-child {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 40%;
+    justify-content: space-between;
+}
+
+.customer_analytics .headerClass:nth-child(8) {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.customer_analytics .headerClass:nth-child(8) > div:last-child {
+    width: 22%;
+    height: 7vh;
+    border: solid 0.6px rgba(49, 61, 79, 0.4);
+    background-color: rgba(32, 42, 56, 0.4);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-self: flex-end;
+}
+
+.customer_analytics .headerClass:nth-child(8) > div:last-child > text {
+    font-family: CircularStd;
+    font-size: 1.4vmin;
+    font-weight: 500;
+    text-align: center;
+    color: white;
+}
+
+.customer_details_dropdown {
+    position: relative;
+    display: inline-block;
+    font-family: CircularStd;
+}
+
+.customer_details_dropdown > div:first-child {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+    width: 8vw;
+    height: 4vh;
+    border-radius: 4px;
+    background-color: #fbd635;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.customer_details_dropdown > div:first-child > text {
+    font-family: CircularStd;
+    font-size: 1.4vmin;
+    font-weight: 500;
+    text-align: center;
+    color: #202a38;;
+    width: 70%;
+}
+
+.customer_details_dropdown > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    top: 7vmin;
+    width: 17.3vw;
+    right: -4vmin;
+    background-color: #273142;
+    font-weight: normal;
+    position: absolute;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.customer_details_dropdown > ul li:first-child {
+    border-bottom: rgba(151, 151, 151, 0.6) 1px solid;
+    height: 5vh;
+    opacity: 0.7;
+    display: flex;
+    align-items: center;
+    padding-left: 1vmin;
+}
+
+.customer_details_dropdown > ul li:not(first-child) div {
+    height: 7vh;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row;
+    padding-left: 2vmin;
+    margin-bottom: .5vmin;
+}
+
+.customer_details_dropdown > ul li img {
+    width: 4vmin;
+    height: 4vmin;
+    margin-right: 2vmin;
+}
+
+.customer_details_dropdown > ul li text {
+    font-size: 1.6vmin;
+    font-weight: 500;
+}
+
+.customer_analytics .headerClass:nth-child(10) > div:first-child {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 40%;
+    justify-content: space-between;
+}
+
+.customer_analytics .headerClass:nth-child(10) {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.customer_analytics .headerClass:nth-child(10) > div:last-child {
+    width: 22%;
+    height: 7vh;
+    border: solid 0.6px rgba(49, 61, 79, 0.4);
+    background-color: rgba(32, 42, 56, 0.4);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-self: flex-end;
+}
+
+.customer_analytics .headerClass:nth-child(10) > div:last-child > text {
+    font-family: CircularStd;
+    font-size: 1.4vmin;
+    font-weight: 500;
+    text-align: center;
+    color: white;
+}
+
+.customer_analytics .headerClass:nth-child(6) > div:last-child {
+    width: 22%;
+    height: 7vh;
+    border: solid 0.6px rgba(49, 61, 79, 0.4);
+    background-color: rgba(32, 42, 56, 0.4);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-self: flex-end;
+}
+
+.customer_analytics .headerClass:nth-child(6) > div:last-child > text {
+    font-family: CircularStd;
+    font-size: 1.4vmin;
+    font-weight: 500;
+    text-align: center;
+    color: white;
+}
+
+/*.multipleDropDown .multipleSelect > li:not(first-child) > div > text{*/
+/*    margin-left: 1vmin;*/
+/*}*/
+/*.multipleDropDown .multipleSelect > li:not(first-child) > div > div:first-child > div:first-child{*/
+/*    width: 2vmin;*/
+/*    height: 4vmin;*/
+/*    padding-right: 1vmin;*/
+/*    background-color: #646764;*/
+/*    display: flex;*/
+/*    flex-direction: row;*/
+/*    align-items: center;*/
+/*    justify-content: start;*/
+/*}*/
+
+.multipleDropDown {
+    position: relative;
+    display: inline-block;
+    font-family: CircularStd;
+}
+
+.multipleDropDown > div:first-child {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+    width: 8vw;
+    height: 4vh;
+    border-radius: 4px;
+    background-color: #fbd635;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.multipleDropDown > div:first-child > text {
+    font-family: CircularStd;
+    font-size: 1.4vmin;
+    font-weight: 500;
+    text-align: center;
+    color: #202a38;;
+    width: 70%;
+}
+
+.multipleDropDown > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    top: 7vmin;
+    width: 17.3vw;
+    right: -4vmin;
+    background-color: #273142;
+    font-weight: normal;
+    position: absolute;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.multipleDropDown > ul li:first-child {
+    border-bottom: rgba(151, 151, 151, 0.6) .3px solid;
+    height: 5.5vh;
+    display: flex;
+    align-items: center;
+    padding-left: 2vmin;
+    color: white;
+}
+
+.multipleDropDown > ul li:not(first-child) > div:first-child {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    padding-left: 2vmin;
+    cursor: pointer;
+    align-items: center;
+    height: 6vh;
+    margin-top: 1vmin;
+    margin-bottom: 1.5vmin;
+}
+
+.multipleDropDown > ul li:not(first-child) > div:hover {
+    background-color: rgba(151, 151, 151, 0.1);
+    border-radius: 1px;
+    padding-left: 2vmin;
+    height: 6vh;
+}
+
+.multipleDropDown > ul li:not(first-child) div:first-child > div {
+    margin-right: 2vmin;
+}
+
+.multipleDropDown > ul li:not(first-child) div:first-child > text {
+    font-family: CircularStd;
+    font-size: 1.5vmin;
+    color: white;
+}
+
+.multipleDropDown > ul li:not(first-child) div:first-child > div > div:first-child {
+    width: 3vmin;
+    height: 2vmin;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    padding-top: .5vmin;
+}
+
+.multipleDropDown > ul li:not(first-child) div:first-child > div > div:last-child {
+    width: 0;
+    height: 0;
+    border-left: 1.6vmin solid transparent;
+    border-right: 1.6vmin solid transparent;
+    border-top: 1.5vmin solid;
+}
+
+.multipleDropDown > ul li text {
+    font-size: 1.6vmin;
+    font-weight: 500;
+}
+
+.customer_analytics .headerClass:nth-child(12) {
+    font-family: CircularStd;
+    font-size: 1.4vmin;
+    font-weight: 500;
+    text-align: center;
+    color: white;
+    width: 45%;
+}
+
+.customer_analytics .headerClass:nth-child(12) > div:first-child {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 40%;
+    justify-content: space-between;
+}
+
+.customer_analytics .headerClass:nth-child(12) > div:last-child {
+    width: 48.5%;
+    height: 7vh;
+    border: solid 0.6px rgba(49, 61, 79, 0.4);
+    background-color: rgba(32, 42, 56, 0.4);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-self: flex-end;
+}
+
+.customer_analytics .headerClass:nth-child(12) > div:last-child > text {
+    font-family: CircularStd;
+    font-size: 1.4vmin;
+    font-weight: 500;
+    text-align: center;
+    color: white;
+}
+
+.customer_analytics > div:nth-child(13) > .darkTheme {
+    height: 48vh;
+    border-radius: 30px;
+    box-shadow: 0 9px 9px -3px rgba(9, 11, 13, 0.5);
+    border: solid 1.7px #24262b;
+    background-image: linear-gradient(128deg, #24262b, #191c1f 100%);
+}
+
+.customer_analytics > div:nth-child(13) > .darkTheme > .product_rating_second_child {
+    width: 98%;
+    height: 99%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.customer_analytics > div:nth-child(13) {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.customer_analytics > div:nth-child(13) > .darkTheme > .product_rating_loader {
+    margin-top: 1.5vmin;
+}
+
+.customer_analytics > .headerClass:nth-child(14) {
+    margin-top: 7vh;
+}
+
+.customer_analytics > .darkTheme:last-child {
+    border-radius: 30px;
+    box-shadow: 0 9px 9px -3px rgba(9, 11, 13, 0.5);
+    border: solid 1.7px #24262b;
+    background-image: linear-gradient(128deg, #24262b, #191c1f 100%);
+}
+
+.customer_analytics > .darkTheme:last-child > .customer_feedback_first_child {
+    margin-top: 0vh;
+}

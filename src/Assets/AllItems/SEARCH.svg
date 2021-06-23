@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>SEARCH</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-4.6%" y="-24.0%" width="109.2%" height="148.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="15.1-MAIN-UI---ALL-ITEMS" transform="translate(-1168.000000, -411.000000)">
+            <g id="ITEMS" transform="translate(293.000000, 203.000000)">
+                <g id="SEARCH-BAR" filter="url(#filter-1)" transform="translate(861.000000, 199.000000)">
+                    <g id="SEARCH" transform="translate(16.000000, 11.000000)">
+                        <g id="Group">
+                            <g>
+                                <g id="Circle_Shadow_16_" transform="translate(0.000000, 0.840000)" fill="#B13C76">
+                                    <ellipse id="Oval" cx="13.21579" cy="13.0200005" rx="13.21579" ry="13.0200005"></ellipse>
+                                </g>
+                                <g id="Circle_16_" fill="#D0468B">
+                                    <ellipse id="Oval" cx="13.21579" cy="13.0200005" rx="13.21579" ry="13.0200005"></ellipse>
+                                </g>
+                                <path d="M13.3010532,26.040001 C19.6957903,25.998001 25.0247378,21.5040009 26.1757905,15.5400006 L18.4168428,7.89600031 L12.4910531,7.6020003 L9.80526355,11.3400005 L10.8710531,15.2040006 L6.607895,19.4460008 L13.3010532,26.040001 L13.3010532,26.040001 Z" id="Shape" fill="#000000" opacity="0.15"></path>
+                                <g id="Location_Pin_1_" transform="translate(6.394737, 6.300000)" fill="#FFFCF2">
+                                    <path d="M8.10000032,0 C5.03052652,0 2.55789484,2.4360001 2.55789484,5.46000022 C2.55789484,6.67800027 2.94157906,7.77000031 3.62368435,8.69400035 L0.255789484,12.0120005 C0.0852631613,12.1800005 0,12.3900005 0,12.6000005 C0,13.0620005 0.383684226,13.4400005 0.852631613,13.4400005 C1.1084211,13.4400005 1.321579,13.3560005 1.44947374,13.1880005 L1.44947374,13.1880005 L4.81736861,9.87000039 C5.71263181,10.5420004 6.86368448,10.9200004 8.10000032,10.9200004 C11.1694741,10.9200004 13.6421058,8.48400034 13.6421058,5.46000022 C13.6421058,2.4360001 11.1694741,0 8.10000032,0 L8.10000032,0 Z M8.10000032,9.24000037 C5.96842129,9.24000037 4.26315806,7.5600003 4.26315806,5.46000022 C4.26315806,3.36000013 5.96842129,1.68000007 8.10000032,1.68000007 C10.2315794,1.68000007 11.9368426,3.36000013 11.9368426,5.46000022 C11.9368426,7.5600003 10.2315794,9.24000037 8.10000032,9.24000037 L8.10000032,9.24000037 Z" id="Shape"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="55px" viewBox="0 0 58 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Statistic</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-24.3%" y="-25.5%" width="150.1%" height="151.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="23.1-MAIN-UI---INVENTORY-MANAGEMENT" transform="translate(-374.000000, -254.000000)">
+            <g id="INVENTORY-MANAGEMENT" transform="translate(293.000000, 203.000000)">
+                <g id="TOP-TOOLBAR" transform="translate(23.000000, 30.000000)">
+                    <g id="DASHBOARD" transform="translate(35.000000, 12.000000)">
+                        <g transform="translate(8.000000, 5.000000)" id="Statistic">
+                            <g transform="translate(17.000000, 6.000000)">
+                                <g filter="url(#filter-1)">
+                                    <polygon id="Shape" fill="#607D8B" points="25.9259255 37.4156856 24.6296292 36.1254896 11.6666665 43.8666659 12.9629627 45.156862"></polygon>
+                                    <polygon id="Shape" fill="#607D8B" points="23.3333329 37.4156856 24.6296292 36.1254896 37.592592 43.8666659 36.2962957 45.156862"></polygon>
+                                    <rect id="Rectangle-path" fill="#37474F" x="23.3333329" y="0" width="2.59259255" height="41.2862738"></rect>
+                                    <rect id="Rectangle-path" fill="#D1D7B9" x="1.29629627" y="6.45098028" width="46.6666659" height="25.8039211"></rect>
+                                    <rect id="Rectangle-path" fill="#E88383" x="0" y="3.87058817" width="49.2592584" height="2.58039211"></rect>
+                                    <rect id="Rectangle-path" fill="#E88383" x="1.29629627" y="32.2549014" width="46.6666659" height="2.58039211"></rect>
+                                    <ellipse id="Oval" fill="#263238" cx="12.3148146" cy="44.5117639" rx="1.94444441" ry="1.93529408"></ellipse>
+                                    <ellipse id="Oval" fill="#263238" cx="36.9444438" cy="44.5117639" rx="1.94444441" ry="1.93529408"></ellipse>
+                                    <path d="M16.3864812,11.9420547 C15.7059257,11.7485253 15.0020368,11.6117645 14.259259,11.6117645 C9.96333316,11.6117645 6.48148137,15.0772311 6.48148137,19.3529408 C6.48148137,23.6286506 9.96333316,27.0941172 14.259259,27.0941172 C18.5551849,27.0941172 22.0370367,23.6286506 22.0370367,19.3529408 C22.0370367,18.6136585 21.8996293,17.913082 21.7051848,17.2357291 L14.259259,19.3529408 L16.3864812,11.9420547 L16.3864812,11.9420547 Z" id="Shape" fill="#4CAF50"></path>
+                                    <path d="M16.3864812,11.9420547 L14.259259,19.3529408 L21.7051848,17.2357291 C20.9688885,14.6746899 18.9596293,12.6748861 16.3864812,11.9420547 L16.3864812,11.9420547 Z" id="Shape" fill="#FF9800"></path>
+                                    <rect id="Rectangle-path" fill="#607D8B" x="28.518518" y="15.4823527" width="14.259259" height="2.58039211"></rect>
+                                    <rect id="Rectangle-path" fill="#607D8B" x="28.518518" y="20.6431369" width="14.259259" height="2.58039211"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

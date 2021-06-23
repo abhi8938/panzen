@@ -1,0 +1,49 @@
+.wastage_parent{
+    width: 97%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.wastage_parent  .wastage_entry_grid_style{
+    display: inline-grid;
+    grid-template-columns: 23% 13% 23% 23%;
+    justify-content: space-between;
+    width: 96%;
+    padding-bottom: 4vh;
+}
+.wastage_parent .wastage_entry_style{
+    width: 86.5%;
+    align-self: center;
+    margin-bottom: 4vh;
+}
+
+.wastage_parent .wastage_entry_grid_style_2{
+    display: inline-grid;
+    grid-template-columns:22% 15% 13% 22% 22%;
+    justify-content: space-between;
+    width: 96%;
+    padding-bottom: 4vh;
+}
+
+.wastage_parent > div:last-child{
+    display: flex;
+    flex-direction: column;
+    width: 97%;
+    border: solid 1px rgba(39, 49, 66, 0.5);
+    background-color: rgba(39, 49, 66, 0.5);
+    padding: 3.5vmin;
+    align-items: center;
+    min-height: 80vh;
+}
+
+.wastage_parent > div:last-child > div:first-child > .wastageListFrame{
+    display: inline-grid;
+    grid-template-columns: 20% 12% 15% 21% 18% 15%;
+    width: 95%;
+    padding-left: 4%;
+}
+
+.wastage_parent > div:last-child > div:first-child{
+    width: 100%;
+}

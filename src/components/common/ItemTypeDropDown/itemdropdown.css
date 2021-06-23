@@ -1,0 +1,114 @@
+
+.itemType_dropdown{
+    position: relative;
+    display: inline-block;
+    font-family: CircularStd;
+    align-self: center;
+}
+.itemType_dropdown_light{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+    width: 14vw;
+    height: 6vh;
+    border-radius: 4.2px;
+    box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.5);
+    align-items: center;
+    justify-content: space-evenly;
+    padding-right: 1vmin;
+    color: #202a38;
+    background-color: white;
+}
+.itemType_dropdown_dark{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+    width: 11.8vw;
+    height: 6vh;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 1.5vmin;
+    padding-left: 3vmin;
+    border-radius: 10px;
+    border: solid 0.5px rgba(116,116,116,0.5);
+    background-color: rgba(34,44,60,0.8);
+    color: rgba(255,255,255,0.5);
+}
+.itemType_dropdown_light > text:nth-child(2){
+    font-family: CircularStd;
+    font-size: 1.6vmin;
+    font-weight: 500;
+    text-align: start;
+    width: 65%;
+    border-left: black 1px solid;
+    padding-left: 2%;
+}
+.itemType_dropdown_dark > text:first-child{
+    font-family: CircularStd;
+    font-size: 1.6vmin;
+    font-weight: 500;
+    text-align: start;
+    width: 65%;
+    padding-left: 2%;
+}
+.itemType_dropdown > div:first-child > img{
+   width: 4vmin;
+    height: 5vmin;
+}
+.itemType_dropdown > ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    right:0px;
+    top:7vmin;
+    width: 14.5vw;
+    border-radius: 8px;
+    box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.5);
+    font-weight:normal;
+    position: absolute;
+    z-index: 1;
+    overflow-y: scroll;
+    height: 60vmin;
+}
+.itemType_dropdown > ul li{
+   height: 6.5vh;
+}
+
+.itemType_dropdown > ul li > div{
+    cursor: pointer;
+    height: 95%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row;
+    padding-left: 2vmin;
+    margin-bottom: .5vmin;
+    transition: all 0.4s;
+    -webkit-transition: all 0.4s;
+}
+.itemType_dropdown > ul li > div:hover{
+    background-color: rgba(251,214,53,0.5);
+    border-radius: 8px;
+
+}
+.itemType_dropdown > ul li img{
+    width: 4vmin;
+    height: 5vmin;
+    margin-right: 2vmin;
+}
+.itemType_dropdown > ul li > div > text{
+    font-size: 1.6vmin;
+    font-weight: 500;
+    font-family: CircularStd;
+    font-weight: 500;
+    width: 80%;
+    text-align: start;
+}
+.white{
+    color: white;
+}
+.black{
+    color: #202a38;
+}

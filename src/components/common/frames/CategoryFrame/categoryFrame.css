@@ -1,0 +1,28 @@
+.categoryFrame {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 5vh;
+    margin-top: 5vh;
+}
+
+.categoryFrame > div:first-child {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.categoryFrame > div:first-child > img {
+    width: 6vmin;
+    height: 6vmin;
+    margin-right: 1vmin;
+}
+
+.categoryFrame > div:first-child > text {
+    font-family: CircularStd;
+    font-size: 1.8vmin;
+    font-weight: 500;
+    color: white;
+}

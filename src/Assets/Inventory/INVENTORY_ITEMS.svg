@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="43px" viewBox="0 0 43 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>INVENTORY  ITEMS</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="23.1-MAIN-UI---INVENTORY-MANAGEMENT" transform="translate(-878.000000, -258.000000)">
+            <g id="INVENTORY-MANAGEMENT" transform="translate(293.000000, 203.000000)">
+                <g id="TOP-TOOLBAR" transform="translate(23.000000, 30.000000)">
+                    <g id="INVENTORY" transform="translate(427.000000, 10.000000)">
+                        <g id="INVENTORY-ITEMS" transform="translate(113.000000, 5.000000)">
+                            <g id="INVENTORY" transform="translate(22.000000, 10.000000)">
+                                <g transform="translate(-0.000000, 0.000000)">
+                                    <polygon id="Shape" fill="#FFCC80" points="43 4.77777778 0 4.77777778 5.01188889 0 37.9881111 0"></polygon>
+                                    <rect id="Rectangle-path" fill="#FFA726" x="0" y="4.77777778" width="43" height="38.2222222"></rect>
+                                    <path d="M26.2777778,11.9444444 L16.7222222,11.9444444 C16.0628889,11.9444444 15.5277778,11.4093333 15.5277778,10.75 L15.5277778,10.75 C15.5277778,10.0906667 16.0628889,9.55555556 16.7222222,9.55555556 L26.2777778,9.55555556 C26.9371111,9.55555556 27.4722222,10.0906667 27.4722222,10.75 L27.4722222,10.75 C27.4722222,11.4093333 26.9371111,11.9444444 26.2777778,11.9444444 L26.2777778,11.9444444 Z" id="Shape" fill="#4E342E"></path>
+                                    <rect id="Rectangle-path" fill="#795548" x="28.6666667" y="35.8333333" width="8.36111111" height="1.19444444"></rect>
+                                    <rect id="Rectangle-path" fill="#795548" x="34.6388889" y="29.8611111" width="1.19444444" height="4.77777778"></rect>
+                                    <polygon id="Shape" fill="#795548" points="35.2361111 28.6666667 33.4444444 31.0555556 37.0277778 31.0555556"></polygon>
+                                    <rect id="Rectangle-path" fill="#795548" x="29.8611111" y="29.8611111" width="1.19444444" height="4.77777778"></rect>
+                                    <polygon id="Shape" fill="#795548" points="30.4583333 28.6666667 28.6666667 31.0555556 32.25 31.0555556"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>DESCENDING</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-40.0%" y="-40.0%" width="180.0%" height="180.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="24.3-MAIN-UI---CUSTOMER-ANALYTICS-(-SORTING)" transform="translate(-616.000000, -3393.000000)">
+            <g id="4.PRODUCT-RATING" transform="translate(313.000000, 3204.000000)">
+                <g id="NOTIFICATION-BAR" transform="translate(284.000000, 68.000000)">
+                    <g id="CAPTAIN" transform="translate(0.000000, 108.000000)">
+                        <g id="DESCENDING" transform="translate(21.000000, 15.000000)">
+                            <g filter="url(#filter-1)">
+                                <rect id="Rectangle-path" fill="#673AB7" transform="translate(15.000000, 14.166667) rotate(180.000000) translate(-15.000000, -14.166667) " x="12.5" y="3.33333333" width="5" height="21.6666667"></rect>
+                                <polygon id="Shape" fill="#673AB7" points="15 30 21.6666667 23.3333333 8.33333333 23.3333333"></polygon>
+                                <rect id="Rectangle-path" fill="#673AB7" transform="translate(15.000000, 4.166667) rotate(180.000000) translate(-15.000000, -4.166667) " x="0" y="0" width="30" height="8.33333333"></rect>
+                                <rect id="Rectangle-path" fill="#B0BEC5" transform="translate(15.000000, 15.833333) rotate(180.000000) translate(-15.000000, -15.833333) " x="0" y="11.6666667" width="30" height="8.33333333"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

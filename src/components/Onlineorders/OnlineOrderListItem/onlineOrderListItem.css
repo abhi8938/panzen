@@ -1,0 +1,27 @@
+
+.button-cancel{
+    width: 70%;
+    height: 5vh;
+    font-size: 1.7vmin;
+    font-weight: 500;
+    text-align: center;
+    color: #1a2532;
+    border-radius: 18px;
+    box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.5);
+    background-image: linear-gradient(247deg, #ec9999 90%, #e5c697 10%);
+    border: 0;
+    cursor: pointer;
+    margin-left: 5vmin;
+}
+
+.onlineOrderListItem{
+    width: 100%;
+    height: 15vmin;
+    margin-bottom: 4vmin;
+}
+.onlineOrderListItem > div:first-child > div:nth-child(2){
+    display: grid;
+    grid-template-columns: 21.5% 18% 22% 12% 16% 18%;
+    width: 90%;
+    align-items: center;
+}

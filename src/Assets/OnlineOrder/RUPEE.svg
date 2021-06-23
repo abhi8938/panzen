@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>RUPEE</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="23.6.1--MAIN-UI---INVENTORY-MANAGEMENT-(MENU-ITEMS)" transform="translate(-1047.000000, -779.000000)">
+            <g id="INVENTORY-MANAGEMENT" transform="translate(293.000000, 122.000000)">
+                <g id="ORDERS" transform="translate(0.000000, 327.000000)">
+                    <g id="TAB-1" transform="translate(23.000000, 272.000000)">
+                        <g id="COST" transform="translate(731.000000, 51.000000)">
+                            <g id="RUPEE" transform="translate(0.000000, 7.000000)">
+                                <g>
+                                    <circle id="Oval" fill='' cx="16.6709667" cy="16.6709667" r="16.6709667"></circle>
+                                    <g transform="translate(10.000000, 8.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-width="2.16000014">
+                                        <line x1="0" y1="0.178301882" x2="12.9599997" y2="0.178301882" id="Line-4"></line>
+                                        <path d="M5.57999985,0.178301882 C7.73999979,2.34084061 8.81999977,4.44394537 8.81999977,6.48761618 C8.81999977,8.53128698 6.59999983,10.0400521 2.15999994,11.0139116 L8.99999976,18.8298238" id="Path"></path>
+                                        <line x1="0.539999986" y1="5.90094324" x2="13.4999996" y2="5.90094324" id="Line-4"></line>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>CATEGORY</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="23.5.1--MAIN-UI---INVENTORY-MANAGEMENT-(INVENTORY-ITEM)" transform="translate(-315.000000, -899.000000)">
+            <g id="INVENTORY-MANAGEMENT" transform="translate(293.000000, 233.000000)">
+                <g id="MEASUREMENT-UNITS" transform="translate(22.000000, 658.000000)">
+                    <g id="HEADER" transform="translate(0.000000, -0.000000)">
+                        <g id="MEASUREMENT" transform="translate(0.000000, 8.000000)">
+                            <g>
+                                <rect id="Rectangle-path" fill="#263238" x="11.6666667" y="5.83333333" width="6.66666667" height="5"></rect>
+                                <path d="M21.6666667,7.5 L8.33333333,7.5 C4.65166667,7.5 1.66666667,4.515 1.66666667,0.833333333 L1.66666667,0.833333333 L28.3333333,0.833333333 L28.3333333,0.833333333 C28.3333333,4.515 25.3483333,7.5 21.6666667,7.5 L21.6666667,7.5 Z" id="Shape" fill="#2196F3"></path>
+                                <path d="M23.3333333,9.16666667 L6.66666667,9.16666667 C4.82583333,9.16666667 3.33333333,10.6591667 3.33333333,12.5 L3.33333333,30 L26.6666667,30 L26.6666667,12.5 C26.6666667,10.6591667 25.1741667,9.16666667 23.3333333,9.16666667 L23.3333333,9.16666667 Z" id="Shape" fill="#3F51B5"></path>
+                                <circle id="Oval" fill="#263238" cx="15" cy="20" r="7.5"></circle>
+                                <circle id="Oval" fill="#FFFFFF" cx="15" cy="20" r="5.83333333"></circle>
+                                <path d="M29.1666667,1.66666667 L0.833333333,1.66666667 C0.373333333,1.66666667 0,1.29333333 0,0.833333333 L0,0.833333333 C0,0.373333333 0.373333333,0 0.833333333,0 L29.1666667,0 C29.6266667,0 30,0.373333333 30,0.833333333 L30,0.833333333 C30,1.29333333 29.6266667,1.66666667 29.1666667,1.66666667 L29.1666667,1.66666667 Z" id="Shape" fill="#64B5F6"></path>
+                                <polygon id="Shape" fill="#F44336" points="15.4391667 15 14.5608333 15 14.1666667 20 15.8333333 20"></polygon>
+                                <circle id="Oval" fill="#F44336" cx="15" cy="20" r="1.66666667"></circle>
+                                <circle id="Oval" fill="#B71C1C" cx="15" cy="20" r="1"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Swiss_Franc</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="finance" transform="translate(-533.000000, -113.000000)">
+            <g id="Swiss_Franc" transform="translate(533.000000, 113.000000)">
+                <circle id="Oval" fill="#F44336" cx="19" cy="19" r="19"></circle>
+                <path d="M28.011,8.983 L28.011,12.6 L18.367,12.6 L18.367,18.196 L26.94,18.196 L26.94,21.797 L18.367,21.797 L18.367,24.699 L22.178,24.699 L22.178,27.423 L18.367,27.423 L18.367,30.652 L13.902,30.652 L13.902,27.423 L11.775,27.423 L11.775,24.699 L13.902,24.699 L13.902,8.983 L28.011,8.983 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

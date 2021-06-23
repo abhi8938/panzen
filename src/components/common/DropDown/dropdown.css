@@ -1,0 +1,92 @@
+/* language selector */
+.div-row{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.langSelector {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 3vh;
+  cursor: pointer;
+  transition: background-color 0.5s;
+  -webkit-transition: background-color 0.5s;
+  padding: .5vw;
+}
+
+.langSelector:hover{
+  background-color: rgba(151,151,151,0.1);
+  border-radius: 5px;
+}
+
+.lang_text {
+  font-weight: normal;
+  letter-spacing: normal;
+  font-size: 1vw;
+}
+
+.country-logo-Selected {
+  height: 2.8vw;
+  width: 2.8vw;
+  margin-right: 1.5vmin;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    font-family: CircularStd;
+}
+.lang-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    top:8vmin;
+    right:0px;
+    width: 18vw;
+    background-color: #273142;
+    font-weight:normal;
+    position: absolute;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+.lang_item {
+    color:white;
+    display: flex;
+    align-items: center;
+    height: 7vmin;
+    padding-left: 2vmin;
+    justify-content: space-between;
+    padding-right: 2vmin;
+    cursor: pointer;
+    transition: color 0.5s;
+    -webkit-transition: color 0.5s;
+    transition: background-color 0.5s;
+    -webkit-transition: background-color 0.5s;
+}
+.lang_item:first-child{
+  height: 5vmin;
+  border-bottom: solid 1px rgba(151,151,151,0.5);
+  font-weight: 600;
+}
+.lang_item:first-child:hover{
+  background-color: #273142;
+  color: white;
+  cursor: default;
+}
+.lang_item:last-child {
+    border-bottom: none;
+}
+.lang_item:hover {
+    background-color: rgba(151,151,151,0.5);
+    color: black;
+}
+
+.icon{
+    /* -webkit-transition: all 0.5s;
+    transition: all 0.5s ; */
+    margin-left: 1vmin;
+    font-weight:lighter;
+    font-size: 1.2vw;
+}

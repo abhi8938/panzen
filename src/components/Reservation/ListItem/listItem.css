@@ -1,0 +1,72 @@
+.reservation_listitem_parent {
+    background-color: white;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    height: 10vh;
+    box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.5);
+    margin-bottom: 3vh;
+    margin-top: 3vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    border-left: #4b6cfb 1.1vmin solid;
+}
+
+.reservation_listitem_icon {
+    width: 5vmin;
+    height: 5vmin;
+}
+
+.reservation_listitem_cancel_button {
+    width: 63%;
+    height: 4.5vh;
+    font-size: 1.7vmin;
+    font-weight: 500;
+    text-align: center;
+    color: #1a2532;
+    border-radius: 18px;
+    box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.5);
+    background-image: linear-gradient(247deg, #ec9999 90%, #e5c697 10%);
+    border: 0;
+    margin-left: 2vmin;
+    cursor: pointer;
+}
+
+.reservation_listitem_text {
+    font-size: 1.6vmin;
+    font-weight: 500;
+    color: #202a38;
+    margin-left: 1vmin;
+    text-align: left;
+    width: 80%;
+}
+
+.reservation_listitem_child {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.reservation_listitem_reschedule {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    border-radius: 4.2px;
+    box-shadow: 1px 1px 1px 0 rgba(0, 0, 0, 0.2);
+    border: solid 0.4px rgba(26,37,50,0.4);
+    height: 4vmin;
+    padding: .5vmin .1vmin .5vmin 1vmin;
+    margin-left: 1.5vmin;
+    width: 85%;
+}
+
+.reservation_listitem_reschedule_time {
+    border: 0;
+    background-color: transparent;
+    color: black;
+    font-size: 1.5vmin;
+    font-weight: 500;
+}

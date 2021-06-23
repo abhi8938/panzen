@@ -1,0 +1,56 @@
+.orderDetailsComponent_parent{
+    width: 91%;
+    background-color: #fbd635;
+    margin-top: 1vh;
+    border-radius: 12px;
+    height: 5.6vh;
+    font-family: CircularStd;
+    transition: all linear 0.4s;
+    -webkit-transition: all linear 0.4s;
+    position: absolute;
+    top:74%;
+    z-index: 1;
+}
+.orderDetailsComponent_parent_expand{
+    height: 46vh;
+    box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.5);
+    border: solid 1.5px #fff;
+}
+.orderDetailsComponent_parent > div:first-child{
+    width: 92%;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1.2vmin 3vmin 1vmin 1vmin;
+    margin-bottom: .5vmin;
+}
+.orderDetailsComponent_parent div:first-child > text{
+    font-size:2vmin;
+    font-weight: 500;
+    color: #202a38;
+    width: 70%;
+    text-align: right;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    padding-bottom: .5vmin;
+}
+.orderDetailsComponent_parent div:first-child > img{
+    width: 3.5vmin;
+    height: 3.5vmin;
+    cursor: pointer;
+}
+.orderDetailsComponent_parent > ul{
+    list-style-type: none;
+    padding: 1vmin 1vmin 1vmin 1vmin;
+    margin: 0;
+}
+.orderDetailsComponent_parent > ul li:first-child{
+    font-family: "Open Sans";
+    font-size: 1.4vmin;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #202a38;
+}

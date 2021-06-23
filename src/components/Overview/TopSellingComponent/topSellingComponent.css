@@ -1,0 +1,87 @@
+.top_selling_parent {
+    width: 42.7%;
+    height: 46.5vh;
+    border: solid 1px rgba(39, 49, 66, 0.5);
+    background-color: rgba(39, 49, 66, 0.5);
+    padding: 2.7vmin 3.8vmin 4.2vmin 3.8vmin;
+    font-family: CircularStd;
+}
+
+.top_selling_first_child {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1vh;
+}
+
+.top_selling_second_child {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 98.5%;
+}
+
+.top_selling_item_parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.top_selling_item_product {
+    font-size: 1.1vw;
+    font-weight: 500;
+    line-height: 1.25;
+    width: 60%;
+    text-align: left;
+}
+
+.top_selling_item_category {
+    font-size: .9vw;
+    line-height: 1.43;
+    width: 35%;
+}
+
+.top_selling_item_sale {
+    font-size: 14px;
+    text-align: right;
+    color: #00bb5d;
+}
+
+.top_selling_item_sale_loss {
+    color: #fe1b36;
+}
+
+.top_selling_item_first_child {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 70%;
+}
+
+.top_selling_item_second_child {
+    width: 20%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.top_selling_item_sale_icon_up {
+    height: 1vw;
+    width: 1vw;
+    margin-left: .5vw;
+    margin-top: .4vw;
+}
+
+.top_selling_item_sale_icon_down {
+    height: 1vw;
+    width: 1vw;
+    margin-left: .5vw;
+    margin-bottom: .4vw;
+}
+

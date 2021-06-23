@@ -1,0 +1,62 @@
+.inventoryNav {
+    list-style-type: none;
+    height: 12vh;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.5);
+    background-color: #404a5b;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 8vh;
+    padding: 0vmin 4vmin 0vmin 4vmin;
+}
+
+.inventoryNav > div > li > img {
+    width: 11vmin;
+    height: 5.5vmin;
+}
+
+.inventoryNav > div > li > text {
+    font-family: "Open Sans";
+    font-size: 1.1vmin;
+    font-weight: 600;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.inventoryNav > div {
+    height: 80%;
+    border-radius: 11px;
+    border: solid 1.1px #979797;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-left: 1vmin;
+    padding-right: 1vmin;
+}
+
+.inventoryNav > div > li{
+    border-radius: 11.5px;
+    cursor: pointer;
+    color: #979797;
+    height: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    width: 5.7vw;
+    background-color: transparent;
+    transition: all 0.2s linear;
+    -webkit-transition: all 0.2s linear;
+    margin-left: .3vmin;
+    margin-right: .3vmin;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+}
+
+.inventoryNav > div > .inventory_active{
+    background-color: #fbd635;
+    color: black;
+}

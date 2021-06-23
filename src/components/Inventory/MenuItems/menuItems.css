@@ -1,0 +1,161 @@
+.menu_item_parent{
+    width: 93%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.menu_item_parent > text:first-child{
+    font-family: CircularStd;
+    font-size: 2vmin;
+    font-weight: 500;
+    text-align: center;
+    align-self: flex-start;
+    margin-bottom: 4vmin;
+}
+
+.menu_item_parent > div:last-child{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border: solid 1px rgba(39, 49, 66, 0.5);
+    background-color: rgba(39, 49, 66, 0.5);
+    padding: 3.5vmin;
+    align-items: center;
+    min-height: 80vh;
+}
+
+.menu_item_parent > div:last-child > div:nth-child(2) {
+    width: 100%;
+}
+
+.menu_item_parent > div:last-child > div:nth-child(2) > .menuItemListFrame{
+    display: inline-grid;
+    grid-template-columns: 20% 14% 30% 15% 13% 10%;
+    width: 95%;
+    padding-left: 4%;
+}
+
+.menu_item_parent > div:last-child > div:first-child{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+.menuItems_dropDown {
+    position: relative;
+    display: inline-block;
+    font-family: CircularStd;
+}
+
+.menuItems_dropDown > div:first-child {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+    width: 14vw;
+    height: 6vh;
+    border-radius: 7px;
+    background-color: #fbd635;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.menuItems_dropDown > div:first-child > text {
+    font-family: CircularStd;
+    font-size: 2.2vmin;
+    font-weight: 500;
+    text-align: center;
+    color: #202a38;;
+    width: 70%;
+}
+
+.menuItems_dropDown > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    top: 7vmin;
+    width: 17.3vw;
+    right: -4vmin;
+    background-color: #273142;
+    font-weight: normal;
+    position: absolute;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.menuItems_dropDown > ul li:first-child {
+    border-bottom: rgba(151, 151, 151, 0.4) 1px solid;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    padding-left: 2vmin;
+}
+
+.menuItems_dropDown > ul li:not(first-child) div {
+    height: 7vh;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row;
+    padding-left: 2vmin;
+    margin-bottom: .5vmin;
+    cursor: pointer;
+}
+
+.menuItems_dropDown > ul li img {
+    width: 3.5vmin;
+    height: 3.5vmin;
+    margin-right: 2vmin;
+}
+
+.menuItems_dropDown > ul li text {
+    font-size: 1.6vmin;
+    font-weight: 500;
+}
+
+
+
+
+
+
+.menu_item_parent .headerClass {
+    display: flex;
+    flex-direction: row;
+    width: 98%;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 4.5vh;
+    margin-top: 1vh;
+}
+
+.menu_item_parent .headerClass > div:last-child {
+    width: 35%;
+    height: 11.5vh;
+    border: solid 0.6px rgba(49, 61, 79, 0.1);
+    background-color: rgba(49, 61, 79, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-self: flex-end;
+}
+
+.menu_item_parent .headerClass > div:last-child > text {
+    font-family: CircularStd;
+    font-size: 2.2vmin;
+    font-weight: 500;
+    text-align: center;
+    color: white;
+}
+
+
+
+
+
+
+

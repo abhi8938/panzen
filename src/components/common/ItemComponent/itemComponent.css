@@ -1,0 +1,168 @@
+.dishComponent {
+    width: 98%;
+    height: 54vh;
+    border-radius: 5px;
+    border: solid 1px #313d4f;
+    background-color: white;
+    padding: 2.4vmin 0vmin 0.2vmin 0vmin;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.dishComponent > div:not(last-child) {
+    width: 88%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 2vmin;
+    align-items: center;
+}
+
+.dishComponent > div:nth-child(2)> text:first-child{
+    font-size: 1.9vmin;
+}
+
+.dishComponent > div:first-child {
+    height: 45%;
+    width: 95%;
+}
+.itemImage{
+    background-color: #4c516d;
+}
+.dishComponent > div:first-child > img:first-child {
+    width: 94%;
+    height: 100%;
+    border-radius: 3px;
+    box-shadow: 2px 2px 4px #ccc;
+    -moz-box-shadow: 2px 2px 4px #ccc;
+    -webkit-box-shadow: 2px 2px 4px #ccc;
+    -khtml-box-shadow: 2px 2px 4px #ccc;
+}
+
+.dishComponent_favourite {
+    cursor: pointer;
+}
+
+.dishComponent > div:first-child > img:last-child {
+    width: 2.5vmin;
+    height: 3vmin;
+    align-self: end;
+    cursor: pointer;
+}
+
+.dishComponent text {
+    color: black;
+}
+
+.dishComponent > text:nth-child(3) {
+    font-size: 1.6vmin;
+    margin-left: 2.1vmin;
+    width: 90%;
+}
+
+.dishComponent > div:nth-child(5) {
+    border-top: solid 1px rgba(32, 42, 56, 0.2);
+    margin-left: 0;
+    width: 90%;
+    padding: 0vmin 2vmin 0vmin 2vmin;
+    height: 14%;
+    align-items: center;
+}
+
+.dishComponent > div:nth-child(5) > div {
+    width: 25%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.dishComponent > div:nth-child(4) > div:last-child {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.dishComponent > div:nth-child(4) > div:last-child > img {
+    width: 2.2vmin;
+    height: 2.5vmin;
+}
+
+.dishComponent > div:nth-child(4) > div:last-child > text {
+    font-family: CircularStd;
+    font-size: 1.8vmin;
+    font-weight: 500;
+    text-align: right;
+    color: #1a2532;
+}
+
+.dishComponent > div:nth-child(4) > div:first-child > text {
+    font-family: CircularStd;
+    font-size: 1.4vmin;
+    font-weight: 500;
+    text-align: right;
+    color: #1a2532;
+}
+
+.dishComponent > div:nth-child(5) > text:first-child{
+    font-size: 1.8vmin;
+}
+.dishComponent > div:nth-child(5) > div:last-child > img {
+    width: 3.5vmin;
+    height: 3.5vmin;
+    cursor: pointer;
+}
+
+.comboItem {
+    border-radius: 5px;
+    border: solid 0px #313d4f;
+    height: 50vh;
+    width: 32%;
+}
+
+.comboItem > div:nth-child(5) {
+    border: 0;
+    height: 7%;
+
+}
+
+.comboItem > div:first-child {
+    height: 52%;
+}
+
+.loaders {
+    width: 60%;
+    height: 3vh;
+}
+
+.loaders > div:first-child {
+    width: 100%;
+    height: 100%;
+}
+
+.lg-text-loader {
+    width: 90%;
+    height: 4.3vh;
+}
+
+.lg-text-loader > div:first-child {
+    width: 100%;
+    height: 100%;
+}
+
+.sm-text-loader {
+    width: 5vw;
+    height: 2.5vh
+}
+
+.sm-text-loader > div:first-child {
+    width: 100%;
+    height: 100%;
+}
+
+.sm-text-margin {
+    padding-top: 0;
+}
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.1 (89650) - https://sketch.com -->
+    <title>FRANCE LOGO</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FRANCE-LOGO">
+            <g>
+                <path d="M13.3333333,38.8621076 C15.4183465,39.5990244 17.6620413,40 19.9993863,40 C22.3371898,40 24.5813067,39.5988669 26.6666667,38.8616729 L26.6666667,1.13832637 C24.5813067,0.401133031 22.3371898,0 19.9993863,0 C17.6620413,0 15.4183465,0.400975642 13.3333332,1.13789334 L13.3333333,38.8621076 L13.3333333,38.8621076 Z" id="white" fill="#FFFFFF"></path>
+                <path d="M0,20 C0,28.7081255 5.56538413,36.1163858 13.3333332,38.8619619 L13.3333333,1.13803724 C5.56538413,3.88361417 0,11.2918745 0,20 Z" id="blue" fill="#227FBB"></path>
+                <path d="M40,20 C40,11.2918745 34.4346159,3.88361417 26.6666668,1.13803809 L26.6666667,38.8619628 C34.4346159,36.1163858 40,28.7081255 40,20 Z" id="red" fill="#E94B35"></path>
+            </g>
+        </g>
+    </g>
+</svg>

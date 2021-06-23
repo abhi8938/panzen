@@ -1,0 +1,56 @@
+.order_details_L_parent {
+    height: 34vh;
+    margin-top: 9vh;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.order_details_L_f_c {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 92%;
+}
+
+.order_details_L_f_c_left {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 5%;
+}
+
+.order_details_L_f_c_right {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 88%;
+    transform: rotateX(180deg);
+    margin-bottom: 2.5vh;
+}
+
+.order_details_L_f_c_left_el {
+    width: 100%;
+    height: 6.5vh;
+    text-align: left;
+}
+
+.order_details_L_f_c_right_el {
+    width: 2%;
+    height: 31vh;
+    text-align: center;
+}
+
+.order_details_L_s_c {
+    display: flex;
+    flex-direction: row;
+    width: 82%;
+    justify-content: space-between;
+    margin-left: 10.5%;
+}
+
+.order_details_L_s_c_el {
+    width: 3%;
+    height: 1.5vh;
+    text-align: center;
+}

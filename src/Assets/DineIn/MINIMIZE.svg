@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>MINIMIZE</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-54.5%" y="-54.5%" width="209.1%" height="209.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="12.MAIN-UI---DINE-IN-(ORDER-DETAILS)" transform="translate(-582.000000, -626.000000)" fill="#3F51B5">
+            <g id="TABLES" transform="translate(312.000000, 340.000000)">
+                <g id="TABLE-1">
+                    <g id="OREDR-DETAILS" transform="translate(20.400001, 274.800011)">
+                        <g id="HEADER">
+                            <g id="MINIMIZE" filter="url(#filter-1)" transform="translate(253.599999, 13.199989)">
+                                <polygon id="Rectangle-path" transform="translate(18.584378, 3.415661) rotate(-45.000000) translate(-18.584378, -3.415661) " points="14.9764124 2.19345071 22.1923432 2.19345071 22.1923432 4.63787171 14.9764124 4.63787171"></polygon>
+                                <polygon id="Shape" points="12.8333333 1.83333333 12.8333333 9.16666667 20.1666667 9.16666667"></polygon>
+                                <polygon id="Rectangle-path" transform="translate(3.415194, 18.584339) rotate(-45.000000) translate(-3.415194, -18.584339) " points="-0.192770955 17.3621283 7.02315984 17.3621283 7.02315984 19.8065493 -0.192770955 19.8065493"></polygon>
+                                <polygon id="Shape" points="9.16666667 20.1666667 9.16666667 12.8333333 1.83333333 12.8333333"></polygon>
+                                <polygon id="Rectangle-path" transform="translate(18.584159, 18.584619) rotate(-45.000000) translate(-18.584159, -18.584619) " points="17.3619436 14.9766537 19.8063646 14.9766537 19.8063646 22.1925844 17.3619436 22.1925844"></polygon>
+                                <polygon id="Shape" points="20.1666667 12.8333333 12.8333333 12.8333333 12.8333333 20.1666667"></polygon>
+                                <polygon id="Rectangle-path" transform="translate(3.415417, 3.415378) rotate(-45.000000) translate(-3.415417, -3.415378) " points="2.19320627 -0.192587621 4.63762727 -0.192587621 4.63762727 7.02334318 2.19320627 7.02334318"></polygon>
+                                <polygon id="Shape" points="1.83333333 9.16666667 9.16666667 9.16666667 9.16666667 1.83333333"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

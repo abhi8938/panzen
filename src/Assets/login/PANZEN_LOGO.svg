@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 -10 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.1 (89650) - https://sketch.com -->
+    <title>LOGO</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="23.1270216%" y1="7.88389149%" x2="75.1721066%" y2="93.5344264%" id="linearGradient-1">
+            <stop stop-color="#4E05BE" offset="0%"></stop>
+            <stop stop-color="#4D05BE" offset="47.7088214%"></stop>
+            <stop stop-color="#26028A" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="38.4000027" cy="38.4000027" r="38.4000027"></circle>
+        <path d="M0.384000027,62.7256626 C9.29881572,63.4721014 16.4287099,62.5493098 21.7736824,59.957288 C29.7911413,56.0692553 49.1502166,33.7797436 56.9525343,29.4359158 C62.1540793,26.5400306 69.1539031,26.5400306 77.9520054,29.4359158" id="path-4"></path>
+        <filter x="-2.4%" y="-5.0%" width="104.8%" height="110.1%" filterUnits="objectBoundingBox" id="filter-5">
+            <feMorphology radius="0.300000012" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.652683424   0 0 0 0 0.503759468   0 0 0 0 0.170222523  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M38.1060767,16.8960012 C43.1611152,16.8960012 47.4950636,19.8616439 49.3251896,23.7711316 C56.5360508,24.1956483 62.2080043,28.6569284 62.2080043,34.0978123 C62.2080043,39.0837319 57.4449637,43.2470261 51.0999718,44.2354068 L50.1790921,58.2657601 C50.1115691,59.295392 49.2567333,60.0960042 48.2248897,60.0960042 L28.379165,60.0960042 C27.3473214,60.0960042 26.4924856,59.295392 26.4249626,58.2657601 L25.5020819,44.2034574 C19.2562342,43.1601182 14.592001,39.0317454 14.592001,34.0978123 C14.592001,28.8107104 19.9478598,24.4486195 26.8664877,23.8163776 C28.6838911,19.8844121 33.0316709,16.8960012 38.1060767,16.8960012 Z" id="path-6"></path>
+        <filter x="-9.5%" y="-10.4%" width="118.9%" height="120.8%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.894389719   0 0 0 0 0.71069962   0 0 0 0 0.232135716  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="-1" dy="-1" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.772418478   0 0 0 0 0.260190813   0 0 0 0 0.260190813  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LOGIN-Copy" transform="translate(-60.000000, -67.000000)">
+            <g id="LOGO" transform="translate(60.000000, 67.000000)">
+                <g id="PANZEN-LOGO" transform="translate(10.560000, 0.000000)">
+                    <g>
+                        <g id="BACKGROUND">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <use id="Oval" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                            <g id="Path" stroke-linecap="round" mask="url(#mask-3)">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                                <use stroke="#8670BC" stroke-width="0.600000024" xlink:href="#path-4"></use>
+                            </g>
+                            <g id="OVALS" mask="url(#mask-3)" fill="#9401AC">
+                                <g transform="translate(3.648000, 42.432003)">
+                                    <circle id="Oval" cx="11.8080008" cy="19.8720014" r="1"></circle>
+                                    <circle id="Oval-Copy-10" cx="19.4880014" cy="21.7920015" r="1"></circle>
+                                    <circle id="Oval-Copy-4" cx="54.6240038" cy="18.5280013" r="1"></circle>
+                                    <circle id="Oval-Copy-7" cx="63.6480044" cy="12.5760009" r="1"></circle>
+                                    <circle id="Oval-Copy-5" cx="56.6400039" cy="1.53600011" r="1"></circle>
+                                    <circle id="Oval-Copy-8" cx="20.1600014" cy="5.37600037" r="1"></circle>
+                                    <circle id="Oval-Copy-6" cx="54.7200038" cy="3.64800025" r="1"></circle>
+                                    <circle id="Oval-Copy-3" cx="6.24000043" cy="10.0800007" r="1"></circle>
+                                    <circle id="Oval-Copy-11" cx="0.57600004" cy="0.57600004" r="1"></circle>
+                                    <circle id="Oval-Copy-9" cx="10.0800007" cy="12.0000008" r="1"></circle>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="CHEF-HAT">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                            <use fill="#FBD635" fill-rule="evenodd" xlink:href="#path-6"></use>
+                        </g>
+                        <g id="FORK" transform="translate(39.936003, 35.904002)" fill="#240289">
+                            <path d="M1.536,0 L1.53600011,9.79200068 C1.53600011,10.004078 1.70792277,10.1760007 1.92000013,10.1760007 C2.10556782,10.1760007 2.26039208,10.0443724 2.29619864,9.86939008 L2.30400016,9.79200068 L2.304,0 L3.456,0 L3.45600024,9.79200068 C3.45600024,9.97756837 3.58762853,10.1323926 3.76261087,10.1681992 L3.84000027,10.1760007 C4.02556796,10.1760007 4.18039221,10.0443724 4.21619878,9.86939008 L4.22400029,9.79200068 L4.224,0 L5.376,0 L5.37600037,9.79200068 C5.37600037,9.97756837 5.50762867,10.1323926 5.682611,10.1681992 L5.7600004,10.1760007 C5.94556809,10.1760007 6.10039234,10.0443724 6.13619891,9.86939008 L6.14400043,9.79200068 L6.144,0 L6.72000047,0 C7.14415518,-7.79159575e-17 7.48800052,0.343845336 7.48800052,0.768000053 L7.48800052,12.6720009 C7.48800052,13.308233 6.97223252,13.824001 6.33600044,13.824001 L5.184,13.824 L5.18400036,24.1920017 L2.49600017,24.1920017 L2.496,13.824 L1.15200008,13.824001 C0.515768004,13.824001 -1.44128647e-16,13.308233 0,12.6720009 L0,0.768000053 C-1.62966274e-16,0.343845336 0.343845336,2.99960562e-16 0.768000053,0 L1.536,0 Z" id="Combined-Shape"></path>
+                        </g>
+                        <g id="CUP" transform="translate(28.608002, 35.904002)" stroke="#26028A">
+                            <path d="M9.02400063,0.768000053 L0.768000053,0.768000053 L0.768000053,8.35378185 L0.791976359,8.5449461 C1.01450882,10.3192082 2.76616953,11.7120008 4.89600034,11.7120008 C7.02583115,11.7120008 8.77749186,10.3192082 9.00002432,8.5449461 L9.02400063,8.35378185 L9.02400063,0.768000053 Z" id="Combined-Shape" stroke-width="1.53600011"></path>
+                            <line x1="4.99200035" y1="12.0480008" x2="4.99200035" y2="22.3200016" id="Line" stroke-width="1.92000013" stroke-linecap="square"></line>
+                            <line x1="1.53600011" y1="6.91200048" x2="8.6400006" y2="6.91200048" id="Line-2" stroke-width="1.92000013" stroke-linecap="round"></line>
+                            <line x1="1.53600011" y1="23.4240016" x2="8.6400006" y2="23.4240016" id="Line-2-Copy" stroke-width="1.92000013" stroke-linecap="round"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

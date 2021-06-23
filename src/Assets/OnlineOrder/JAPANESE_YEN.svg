@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Japanese_Yen</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="finance" transform="translate(-255.000000, -113.000000)">
+            <g id="Japanese_Yen" transform="translate(255.000000, 113.000000)">
+                <g id="Layer_1">
+                    <circle id="Oval" fill="#F44336" cx="19" cy="19" r="19"></circle>
+                    <polygon id="Shape" fill="#FFFFFF" points="19 17.964 23.081 9.036 27.928 9.036 22.404 19.555 25.851 19.555 25.851 22.133 21.152 22.133 21.152 23.827 25.851 23.827 25.851 26.39 21.152 26.39 21.152 30.485 16.732 30.485 16.732 26.39 11.782 26.39 11.782 23.827 16.732 23.827 16.732 22.133 11.782 22.133 11.782 19.555 15.612 19.555 10.073 9.036 14.935 9.036"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

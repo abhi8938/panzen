@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ICON 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="8.MAIN-UI---SMART-OVERVIEW" transform="translate(-1236.000000, -2698.000000)">
+            <g id="CUSTOMER-COMMENTS" transform="translate(312.000000, 2305.000000)">
+                <g id="FEEEDBACK-2" transform="translate(94.000000, 354.000000)">
+                    <g id="ICON-2" transform="translate(831.000000, 40.000000)">
+                        <path d="M45.2,58 L10.2,58 C7.4,58 5.2,55.8 5.2,53 L5.2,9 C5.2,6.2 7.4,4 10.2,4 L45.2,4 C48,4 50.2,6.2 50.2,9 L50.2,53 C50.2,55.8 48,58 45.2,58 Z" id="Path" stroke="#37474F" fill="#0097A7" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M45.2,54 L10.2,54 C7.4,54 5.2,51.8 5.2,49 L5.2,5 C5.2,2.2 7.4,0 10.2,0 L45.2,0 C48,0 50.2,2.2 50.2,5 L50.2,49 C50.2,51.8 48,54 45.2,54 Z" id="Path" stroke="#37474F" fill="#26C6DA" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <g id="Group" transform="translate(5.000000, 26.000000)" fill-rule="nonzero">
+                            <path d="M37.6,28.5 L5.2,28.5 C3.3,28.5 1.7,27.6 0.7,26.2 L0.7,27 C0.7,29.5 2.7,31.5 5.2,31.5 L37.2,31.5 C37.2,31.5 37.2,31.5 37.2,31.5 C37.5,30.9 37.7,30.2 37.7,29.5 C37.8,29.2 37.7,28.8 37.6,28.5 Z" id="Path" fill="#006064"></path>
+                            <path d="M5.2,27.5 L37.2,27.5 C37.1,27.3 37,27.2 36.9,27 C37.4,26.3 37.7,25.4 37.7,24.5 C37.7,23.6 37.4,22.7 36.9,22 C37.4,21.3 37.7,20.4 37.7,19.5 C37.7,18.6 37.4,17.7 36.9,17 C37.4,16.3 37.7,15.4 37.7,14.5 C37.7,12 35.7,10 33.2,10 L24.2,10 L24.2,4.5 C24.2,2 22.2,0 19.7,0 L18.7,0 C17,0 15.4,1 14.7,2.5 L12.8,6.2 C11.4,8.9 9.1,11.1 6.3,12.3 L6,12.4 C5.2,11.5 4,10.9 2.7,10.9 L0.7,10.9 L0.7,22.9 C0.8,25.5 2.8,27.5 5.2,27.5 Z" id="Path" fill="#0097A7"></path>
+                        </g>
+                        <path d="M2.8,61 L7.8,61 C9.2,61 10.3,59.9 10.3,58.5 L10.3,45.5 C10.3,44.1 9.2,43 7.8,43 L2.8,43 C1.4,43 0.3,44.1 0.3,45.5 L0.3,58.5 C0.2,59.8 1.4,61 2.8,61 Z" id="Path" stroke="#37474F" fill="#455A64" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M40.8,45.5 C40.8,44.1 39.7,43 38.3,43 C39.7,43 40.8,41.9 40.8,40.5 C40.8,39.1 39.7,38 38.3,38 L27.3,38 L27.3,30.5 C27.3,29.1 26.2,28 24.8,28 L23.8,28 C22.9,28 22,28.5 21.6,29.4 L19.7,33.1 C18.1,36.3 15.5,38.8 12.2,40.2 L10.2,41 L10.2,55 L14.4,56.8 C16.3,57.6 18.3,58 20.3,58 L38.2,58 C39.6,58 40.7,56.9 40.7,55.5 C40.7,54.1 39.6,53 38.2,53 C39.6,53 40.7,51.9 40.7,50.5 C40.7,49.1 39.6,48 38.2,48 C39.6,48 40.8,46.9 40.8,45.5 Z" id="Path" stroke="#37474F" fill="#ECEFF1" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M13,42 C16.7,40.4 19.7,37.6 21.5,34 L23.4,30.3" id="Path" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M39.7,57.5 C39.3,57.8 38.8,58 38.2,58 L20.3,58 C18.3,58 16.3,57.6 14.4,56.8 L10.2,55 L10.2,59 L14.4,60.8 C16.3,61.6 18.3,62 20.3,62 L38.2,62 C39.6,62 40.7,60.9 40.7,59.5 C40.8,58.7 40.3,58 39.7,57.5 Z" id="Path" stroke="#37474F" fill="#B0BEC5" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M2.8,57 L7.8,57 C9.2,57 10.3,55.9 10.3,54.5 L10.3,41.5 C10.3,40.1 9.2,39 7.8,39 L2.8,39 C1.4,39 0.3,40.1 0.3,41.5 L0.3,54.5 C0.2,55.8 1.4,57 2.8,57 Z" id="Path" stroke="#37474F" fill="#78909C" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <line x1="38.2" y1="43" x2="35.2" y2="43" id="Path" stroke="#37474F" fill="#B0BEC5" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="38.2" y1="48" x2="35.2" y2="48" id="Path" stroke="#37474F" fill="#B0BEC5" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="38.2" y1="53" x2="35.2" y2="53" id="Path" stroke="#37474F" fill="#B0BEC5" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <circle id="Oval" stroke="#37474F" fill="#ECEFF1" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" cx="5.2" cy="43" r="2"></circle>
+                        <path d="M7.2,9 L7.2,5 C7.2,3.3 8.5,2 10.2,2 L14.2,2" id="Path" stroke="#80DEEA" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <line x1="11.2" y1="7.5" x2="44.2" y2="7.5" id="Path" stroke="#37474F" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="11.2" y1="13.5" x2="27.8" y2="13.5" id="Path" stroke="#37474F" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="11.2" y1="19.5" x2="35.2" y2="19.5" id="Path" stroke="#37474F" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <path d="M36.8,26 C36.8,33.3 42.6,39.2 49.8,39.5 L49.8,12.5 C42.5,12.8 36.8,18.7 36.8,26 Z" id="Path" fill="#0097A7" fill-rule="nonzero"></path>
+                        <circle id="Oval" stroke="#37474F" fill="#FFCA28" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" cx="50.2" cy="26" r="11.5"></circle>
+                        <path d="M40.8,26 C40.8,20.8 45.1,16.5 50.3,16.5" id="Path" stroke="#FFE082" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M44.8,27.2 L47.6,30 C48.2,30.6 49.1,30.6 49.7,30 L55.7,24 C56.3,23.4 56.3,22.5 55.7,21.9 C55.1,21.3 54.2,21.3 53.6,21.9 L48.7,26.8 L46.9,25 C46.3,24.4 45.4,24.4 44.8,25 C44.2,25.7 44.2,26.7 44.8,27.2 Z" id="Path" stroke="#37474F" fill="#ECEFF1" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

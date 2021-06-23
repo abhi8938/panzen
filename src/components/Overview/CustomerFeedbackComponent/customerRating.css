@@ -1,0 +1,29 @@
+.customer_feedback_parent {
+    width: 94%;
+    height: 57vh;
+    border: solid 1px rgba(39,49,66, 0.5);
+    background-color: rgba(39,49,66, 0.5);
+    padding: 3vmin;
+    font-family: CircularStd;
+    margin-bottom: 2vh;
+}
+.customer_feedback_first_child{
+    margin-top: 2vh;
+}
+.customer_feedback_first_child_tab{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    width: 100%;
+    margin-bottom: 4.5vh;
+}
+.customer_feedback_first_child_message{
+    overflow-y: auto;
+    display: block;
+    padding-left: 6%;
+    width: auto;
+}
+.customer_feedback_loader{
+    height: 100%;
+}

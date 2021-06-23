@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="41px" viewBox="0 0 40 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ICON</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-37.5%" y="-36.4%" width="175.0%" height="172.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="8.MAIN-UI---SMART-OVERVIEW" transform="translate(-33.000000, -207.000000)">
+            <g id="LEFT-HANDLE">
+                <g id="1.-SMART-OVERVIEW" transform="translate(0.000000, 199.000000)">
+                    <g id="ICON" filter="url(#filter-1)" transform="translate(37.000000, 10.000000)">
+                        <g id="Group">
+                            <g id="Circle_33_" fill="#47BFDA">
+                                <circle id="Oval" cx="16" cy="16.483871" r="16"></circle>
+                            </g>
+                            <path d="M31.7419355,18.8903226 L23.9483871,11.0967742 L22.4,12.6451613 L17.8064516,8.0516129 L17.9612903,19.9741935 L16.3096774,19.9741935 L11.6129032,15.2774194 L11.716129,19.9741935 L9.80645161,19.9741935 L8.0516129,23.9483871 L16.1032258,32 C23.8967742,31.9483871 30.3483871,26.3225806 31.7419355,18.8903226 L31.7419355,18.8903226 Z" id="Long_Shadow_33_" fill="#000000" opacity="0.15"></path>
+                            <g id="Bar_Chart" transform="translate(7.741935, 7.741935)" fill="#344E5F">
+                                <path d="M3.09677419,7.22580645 L1.03225806,7.22580645 C0.464516129,7.22580645 0,7.69032258 0,8.25806452 L0,15.483871 C0,16.0516129 0.464516129,16.516129 1.03225806,16.516129 L3.09677419,16.516129 C3.66451613,16.516129 4.12903226,16.0516129 4.12903226,15.483871 L4.12903226,8.25806452 C4.12903226,7.69032258 3.66451613,7.22580645 3.09677419,7.22580645 L3.09677419,7.22580645 Z M9.29032258,0 L7.22580645,0 C6.65806452,0 6.19354839,0.464516129 6.19354839,1.03225806 L6.19354839,15.483871 C6.19354839,16.0516129 6.65806452,16.516129 7.22580645,16.516129 L9.29032258,16.516129 C9.85806452,16.516129 10.3225806,16.0516129 10.3225806,15.483871 L10.3225806,1.03225806 C10.3225806,0.464516129 9.85806452,0 9.29032258,0 L9.29032258,0 Z M15.483871,3.09677419 L13.4193548,3.09677419 C12.8516129,3.09677419 12.3870968,3.56129032 12.3870968,4.12903226 L12.3870968,15.483871 C12.3870968,16.0516129 12.8516129,16.516129 13.4193548,16.516129 L15.483871,16.516129 C16.0516129,16.516129 16.516129,16.0516129 16.516129,15.483871 L16.516129,4.12903226 C16.516129,3.56129032 16.0516129,3.09677419 15.483871,3.09677419 L15.483871,3.09677419 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

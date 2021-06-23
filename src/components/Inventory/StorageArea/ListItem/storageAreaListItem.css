@@ -1,0 +1,179 @@
+.storageAreaListItem {
+    width: 100%;
+    height: 16vmin;
+    font-family: CircularStd;
+    transition: all linear 0.4s;
+    -webkit-transition: all linear 0.4s;
+}
+
+.storageAreaListItem_expanded {
+    height: 36vmin;
+}
+
+.storageAreaListItem > div:first-child > div:nth-child(2) {
+    width: 100%;
+    height: 100%;
+}
+
+.storageAreaListItem > div:first-child > div:nth-child(2) > div:first-child {
+    display: grid;
+    grid-template-columns: 20% 22% 22% 18% 15% 5%;
+    width: 99%;
+    align-items: center;
+    height: 15.5vmin;
+}
+
+.storageAreaListItem > div:first-child > div:nth-child(2) > div:first-child .toggle {
+    cursor: pointer;
+}
+
+.storageAreaListItem > div:first-child > div:nth-child(2) > div:first-child > div:nth-child(5) {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: black;
+}
+
+.storageAreaListItem > div:first-child > div:nth-child(2) .button {
+    border-radius: 18px;
+    box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.5);
+    background-color: #88d8b0;
+    cursor: pointer;
+    border-width: 0;
+    width: 65%;
+    height: 5vh;
+    font-family: CircularStd;
+    font-size: 1.8vmin;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 1.5vmin;
+}
+
+.expand_details_storage {
+    width: 93%;
+    height: 50%;
+    padding: 0vmin .5vmin 1vmin 2vmin;
+    display: grid;
+    grid-template-columns: 60% 39%;
+    font-family: CircularStd;
+    font-size: 1.7vmin;
+    font-weight: 500;
+    color: #1a2532;
+}
+
+.expand_details_storage > div:last-child {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    height: 99%;
+}
+
+.expand_details_storage > div:last-child > img {
+    width: 4vmin;
+    height: 5vmin;
+    margin-right: 3vmin;
+}
+
+
+.expand_details_storage > div:last-child .button_delete {
+    height: 5.5vh;
+    width: 40%;
+    border-radius: 18px;
+    box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.5);
+    background-color: #fe8a71;
+    cursor: pointer;
+    border-width: 0;
+    font-family: CircularStd;
+    font-size: 1.8vmin;
+    font-weight: 500;
+    text-align: center;
+}
+
+.expand_details_storage > div:first-child {
+    width: 95%;
+    height: 99%;
+    border-radius: 17px;
+    border: solid 1px #979797;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.expand_details_storage > div:first-child .button_update {
+    height: 5.5vh;
+    width: 25%;
+    border-radius: 18px;
+    box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.5);
+    background-color: #fe8a71;
+    cursor: pointer;
+    border-width: 0;
+    font-family: CircularStd;
+    font-size: 1.8vmin;
+    font-weight: 500;
+    text-align: center;
+}
+.expand_details_storage > div:first-child > div:first-child {
+    height: 40%;
+    width: 93%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.expand_details_storage > div:first-child > div:first-child .employee_style {
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 0 rgba(0, 0, 0, 0.1);
+    border: solid 0.5px rgba(32,42,56,0.5);
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    padding: 1vmin;
+    width: 80%;
+}
+.expand_details_storage > div:first-child > div:first-child .employee_style  img {
+    width: 3vmin;
+    height: 4vmin;
+}
+.expand_details_storage > div:first-child > div:first-child .employee_input_style {
+    color: #202a38;
+    opacity: 0.5;
+    font-family: CircularStd;
+    font-size: 17.3px;
+    font-weight: 500;
+    background-color: transparent;
+    border-width: 0;
+    border-left: #202a38 1px solid;
+    height: 50%;
+    align-self: center;
+}
+.expand_details_storage > div:first-child > div:first-child > div:last-child{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+.expand_details_storage > div:first-child > div:first-child > div:last-child > div:first-child{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.expand_details_storage .toggle {
+    width: 1.9vmin;
+    height: 1.9vmin;
+    border-radius: 50%;
+    box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.5);
+    border: solid 1px #979797;
+    background-color: #28303f;
+    margin-right: 1.5vw;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in;
+    -webkit-transition: background-color 0.3s ease-in;
+}
+
+.expand_details_storage .toggle_On {
+    background-color: #f16548;
+}

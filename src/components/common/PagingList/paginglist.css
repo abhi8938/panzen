@@ -1,0 +1,377 @@
+.pagingList {
+    width: 100%;
+    min-height: 80vh;
+    border-top-right-radius: 13.5px;
+    border-top-left-radius: 13.5px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    box-shadow: 0 9px 9px -3px rgba(9, 11, 13, 0.5);
+    border: solid 1.7px #111213;
+    background-image: linear-gradient(107deg, #24262b, #191c1f);
+    margin-bottom: 8vmin;
+    opacity: 0.9;
+}
+
+.pagingList > div:first-child {
+    height: 6.3vmin;
+    width: 97.2%;
+    opacity: 0.9;
+    padding-left: 3vmin;
+    padding-right: .5vmin;
+    border-top-right-radius: 13.5px;
+    border-top-left-radius: 13.5px;
+    box-shadow: 0 6px 6px -3px rgba(9, 11, 13, 0.5);
+    border: solid 1.7px #111213;
+    background-image: linear-gradient(92deg, #24262b, #191c1f);
+}
+
+.pagingList > div:first-child text {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-family: CircularStd;
+    font-size: 1.8vmin;
+    font-weight: normal;
+    color: #fefeff;
+    text-align: start;
+}
+
+.pagingList > ul:nth-child(2) {
+    list-style: none;
+    height: 100vmin;
+    overflow: auto;
+    background-image: linear-gradient(92deg, #24262b, #191c1f);
+    padding: 0;
+    width: 100%;
+    margin: 0;
+    border-bottom: solid 1px rgb(151, 151, 151, 0.5);
+}
+
+.pagingList > ul:nth-child(2) > div > div {
+    height: 8vmin;
+    border-bottom: solid 1.2px rgba(151, 151, 151, 0.5);
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 3vmin;
+    cursor: pointer;
+}
+
+.pagingList > ul:nth-child(2) > div > div > li {
+    width: 14.78%;
+    opacity: 0.9;
+    font-family: CircularStd;
+    font-size: 14px;
+    color: #fefeff;
+}
+
+.pagingList > ul:nth-child(2) > div > div > li > img {
+    width: 60%;
+    height: 5%;
+}
+
+.pagingList > ul:nth-child(2) > div > div > li:last-child {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 2vmin;
+    align-items: center;
+    width: 14%;
+}
+
+.pagingList > ul:nth-child(2) > div {
+    list-style: none;
+    background-image: linear-gradient(92deg, #24262b, #191c1f);
+    padding: 0;
+    width: 100%;
+    margin: 0;
+}
+
+.pagingList > ul:nth-child(2) > div > div:hover {
+    background-color: rgba(151, 151, 151, 0.1);
+}
+
+.pagingList > div:nth-child(3) {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1vmin 2vmin 1vmin 2vmin;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+.pagingList > div:nth-child(3) > div:first-child {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    border-radius: 15px;
+    padding-right: 1vmin;
+}
+
+.pagingList > div:nth-child(3) > div:first-child:hover {
+    background-color: rgba(151, 151, 151, 0.5);
+    color: black;
+}
+
+.pagingList > div:nth-child(3) > div:first-child > img {
+    width: 6.8vmin;
+    height: 6.8vmin;
+}
+
+.pagingList > div:nth-child(3) > div:first-child > text {
+    font-family: CircularStd;
+    font-size: 1.9vmin;
+    font-weight: 500;
+}
+
+.pagingList > div:nth-child(3) > div:last-child {
+
+}
+
+
+.table_component_xpanded {
+    padding: 2vmin 2vmin 2vmin 2vmin;
+}
+
+.expense_entry_fields {
+    margin-top: 11vmin;
+    padding-bottom: 5vmin;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.expense_entry_fields > div:first-child {
+    padding-left: 4vmin;
+    display: inline-grid;
+    grid-template-columns: 50% 50%;
+}
+
+.expense_entry_fields > div:nth-child(2) {
+    padding-left: 4vmin;
+}
+
+.expense_entry_fields > div:first-child > div:nth-child(2) {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.expense_entry_fields > div:first-child > div:nth-child(2) > .button {
+    width: 40%;
+}
+
+.expense_entry_fields .entryField {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: CircularStd;
+    font-size: 1.6vmin;
+    width: 90%;
+    margin-bottom: 1vmin;
+    margin-top: 1vmin;
+}
+
+.expense_entry_fields .entryField > text:first-child {
+    font-family: CircularStd;
+    font-size: 1.7vmin;
+    line-height: 2.31;
+    font-weight: 500;
+    color: #1f2835;
+}
+
+.expense_entry_fields .entryField_input {
+    width: 90%;
+    height: 5vmin;
+    border-radius: 10px;
+    border: solid 0.5px #747474;
+    background-color: #222c3c;
+    color: rgba(255, 255, 255, 0.4);
+    padding-left: 2vmin;
+    font-size: 1.5vmin;
+    font-weight: 500;
+}
+
+.expense_entry_fields .expense_entryDropDown {
+    color: black;
+    display: flex;
+    flex-direction: column;
+    font-family: CircularStd;
+    font-size: 1.6vmin;
+    width: 90%;
+    margin-bottom: 1vmin;
+    align-self: center;
+}
+
+.expense_entry_fields .expense_entryDropDown > text:first-child {
+    margin-top: 2vmin;
+    margin-bottom: 1vmin;
+}
+
+.expense_entry_fields .expense_entryDropDown > div:nth-child(2) {
+    width: 85%;
+    border-radius: 10px;
+    border: solid 0.5px #747474;
+    background-color: #222c3c;
+    color: rgba(255, 255, 255, 0.4);
+    padding-left: 2vmin;
+    font-size: 1.5vmin;
+    font-weight: 500;
+    height: 3.1vmin;
+    justify-content: space-between;
+    padding-right: 2vmin;
+}
+
+.expense_entry_fields .expense_entryDropDown > ul {
+    width: 95%;
+    left: 1px;
+    top: 11vmin
+}
+
+.expense_entry_fields .entryField_input_address {
+    width: 90%;
+    height: 11vmin;
+    border-radius: 10px;
+    border: solid 0.5px #747474;
+    background-color: #222c3c;
+    color: rgba(255, 255, 255, 0.4);
+    padding-left: 2vmin;
+    font-size: 1.5vmin;
+    font-weight: 500;
+}
+
+.expense_entry_fields .entryField_input_address:focus {
+    outline-style: none;
+
+}
+
+.expense_entry_fields .entryField_input:focus {
+    outline-style: none;
+}
+
+.expense_entry_fields .button {
+    width: 20%;
+    height: 5vh;
+    font-family: CircularStd;
+    font-size: 1.7vmin;
+    font-weight: normal;
+    text-align: center;
+    color: #1a2532;
+    border-radius: 25px;
+    background-color: #ffd600;
+    cursor: pointer;
+    border-width: 0;
+    -webkit-transition: background-color 0.3s ease-in-out;
+    transition: background-color 0.3s ease-in-out;
+    box-shadow: 0 14px 14px 0 rgba(0, 0, 0, 0.1);
+    align-self: center;
+    margin-top: 2vmin;
+}
+
+.expense_entry_fields .second_container {
+    display: flex;
+    flex-direction: row;
+}
+
+.expense_entry_fields .second_container > .expense_entryDropDown_small {
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    font-family: CircularStd;
+    font-size: 1.6vmin;
+    margin-bottom: 1vmin;
+    margin-right: 5vmin;
+}
+
+.expense_entry_fields .second_container > .expense_entryDropDown_small > text:first-child {
+    margin-top: 1.5vmin;
+    margin-bottom: .8vmin;
+}
+
+.expense_entry_fields .second_container > .expense_entryDropDown_small > div:nth-child(2) {
+    width: 85%;
+    border-radius: 10px;
+    border: solid 0.5px #747474;
+    background-color: #222c3c;
+    color: rgba(255, 255, 255, 0.4);
+    padding-left: 2vmin;
+    font-size: 1.5vmin;
+    font-weight: 500;
+    height: 3.1vmin;
+    justify-content: space-between;
+    padding-right: 2vmin;
+}
+
+.expense_entry_fields .second_container > .expense_entryDropDown_small > ul {
+    width: 100%;
+    left: 1px;
+    top: 10.5vmin
+}
+.expense_entry_fields .entryField_input_comment{
+    width: 45%;
+    height: 9vmin;
+    border-radius: 10px;
+    border: solid 0.5px #747474;
+    background-color: #222c3c;
+    color: rgba(255, 255, 255, 0.4);
+    padding-left: 2vmin;
+    font-size: 1.5vmin;
+    font-weight: 500;
+}
+.expense_entry_fields .entryField_input_comment:focus {
+    outline-style: none;
+
+}
+.expense_entry_fields .add_items {
+    display: inline-grid;
+    grid-template-columns: 40% 20% 20% 4% 6%;
+    align-items: center;
+    justify-content: space-between;
+}
+.expense_entry_fields .add_items .entryField_Item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: CircularStd;
+    font-size: 1.6vmin;
+    margin-bottom: 1vmin;
+    margin-top: 1vmin;
+
+}
+.expense_entry_fields .add_items .entryField_Item > text:first-child {
+    font-family: CircularStd;
+    font-size: 1.7vmin;
+    line-height: 2.31;
+    font-weight: 500;
+    color: #1f2835;
+}
+.expense_entry_fields .add_items .entryField_Item .entryField_input_item {
+    width: 90%;
+    height: 5vmin;
+    border-radius: 10px;
+    border: solid 0.5px #747474;
+    background-color: #222c3c;
+    color: rgba(255, 255, 255, 0.4);
+    padding-left: 2vmin;
+    font-size: 1.5vmin;
+    font-weight: 500;
+}
+.expense_entry_fields .add_items .entryField_Item .entryField_input_item:focus {
+    outline-style: none;
+}
+.expense_entry_fields .add_items > img:nth-child(4) {
+    width: 3vmin;
+    height: 4vmin;
+    margin-top: 4vmin;
+    cursor: pointer;
+}
+.expense_entry_fields .add_items > img:last-child {
+    width: 6vmin;
+    height: 6vmin;
+    margin-top: 4vmin;
+    cursor: pointer;
+}

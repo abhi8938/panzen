@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>TIME</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="13.MAIN-UI---DINE-IN-DROP-DOWN" transform="translate(-1151.000000, -397.000000)" fill-rule="nonzero">
+            <g id="NOTIFICATION-BAR" transform="translate(1132.000000, 277.000000)">
+                <g id="TIME" transform="translate(0.000000, 108.000000)">
+                    <g transform="translate(19.000000, 12.000000)">
+                        <circle id="Oval" fill="#F44336" cx="17.0999995" cy="17.0999995" r="17.0999995"></circle>
+                        <circle id="Oval" fill="#FFFFFF" cx="17.0999995" cy="17.0999995" r="13.4999996"></circle>
+                        <path d="M17.0999995,17.0999985 L17.0999995,3.59999852 C13.5189563,3.59837743 10.083991,5.01963074 7.5509998,7.5509998 L17.0999995,17.0999985 Z" id="Path" fill="#FFCDD2"></path>
+                        <path d="M18.3959995,15.8129996 L9.45899975,8.03699979 C8.92648394,7.57766996 8.21839522,7.37677037 7.5239998,7.4879998 L7.5239998,7.4879998 C7.41879506,8.18655565 7.62988935,8.89570051 8.09999979,9.42299975 L15.8759996,18.3599995 C16.5883034,19.003155 17.679926,18.974362 18.3573348,18.294551 C19.0347437,17.61474 19.0596724,16.5230223 18.4139995,15.8129996 L18.3959995,15.8129996 Z" id="Path" fill="#37474F"></path>
+                        <circle id="Oval" fill="#37474F" cx="7.74899979" cy="11.6999997" r="1"></circle>
+                        <circle id="Oval" fill="#37474F" cx="26.4509993" cy="22.4999994" r="1"></circle>
+                        <circle id="Oval" fill="#37474F" cx="22.4999994" cy="7.74899979" r="1"></circle>
+                        <circle id="Oval" fill="#37474F" cx="11.6999997" cy="26.4509993" r="1"></circle>
+                        <circle id="Oval" fill="#37474F" cx="7.74899979" cy="22.4999994" r="1"></circle>
+                        <circle id="Oval" fill="#37474F" cx="26.4509993" cy="11.6999997" r="1"></circle>
+                        <circle id="Oval" fill="#37474F" cx="11.6999997" cy="7.74899979" r="1"></circle>
+                        <circle id="Oval" fill="#37474F" cx="22.4999994" cy="26.4509993" r="1"></circle>
+                        <circle id="Oval" fill="#37474F" cx="17.0999995" cy="27.8999993" r="1"></circle>
+                        <circle id="Oval" fill="#37474F" cx="6.29999983" cy="17.0999995" r="1"></circle>
+                        <circle id="Oval" fill="#37474F" cx="27.8999993" cy="17.0999995" r="1"></circle>
+                        <path d="M17.0999995,6.29999983 L18.9899995,3.46499991 C17.7364325,3.28493835 16.4635666,3.28493835 15.2099996,3.46499991 L17.0999995,6.29999983 Z" id="Path" fill="#F44336"></path>
+                        <circle id="Oval" fill="#90A4AE" cx="17.0999995" cy="17.0999995" r="1"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

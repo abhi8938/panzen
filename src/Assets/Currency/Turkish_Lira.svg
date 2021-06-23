@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Turkish_Lira</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="finance" transform="translate(-601.000000, -113.000000)">
+            <g id="Turkish_Lira" transform="translate(601.000000, 113.000000)">
+                <g id="Layer_1">
+                    <circle id="Oval" fill="#F44336" cx="19" cy="19" r="19"></circle>
+                    <path d="M17.5,8 L17.5,28.5 L19,28.5 C23.142,28.5 26.5,25.142 26.5,21 L26.5,21" id="Shape" stroke="#FFFFFF" stroke-width="3"></path>
+                    <polygon id="Shape" fill="#FFFFFF" points="22 13 12 15 12 12 22 10"></polygon>
+                    <polygon id="Shape" fill="#FFFFFF" points="22 18 12 20 12 17 22 15"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

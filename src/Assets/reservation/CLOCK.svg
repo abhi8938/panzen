@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Clock</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-34.5%" y="-34.5%" width="169.0%" height="169.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="10.MAIN-UI---RESERVATIONS" transform="translate(-739.000000, -768.000000)">
+            <g id="RESERVATIONS" transform="translate(293.000000, 582.000000)">
+                <g id="TAB-1" transform="translate(23.000000, 165.000000)">
+                    <g id="TIME" transform="translate(425.000000, 23.000000)">
+                        <g id="Clock">
+                            <g filter="url(#filter-1)">
+                                <circle id="Oval" fill="#039BE5" fill-rule="nonzero" cx="17" cy="17" r="17"></circle>
+                                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="17" cy="17" r="13.4210526"></circle>
+                                <path d="M17.8947368,17 L16.1052632,17 L16.1052632,8.87578947 C16.1052632,8.38163996 16.5058505,7.98105263 17,7.98105263 L17,7.98105263 C17.4941495,7.98105263 17.8947368,8.38163996 17.8947368,8.87578947 L17.8947368,17 Z" id="Path" fill="#37474F" fill-rule="nonzero"></path>
+                                <path d="M16.3647368,16.3647368 L17.6352632,17.6352632 L13.1615789,22.1089474 C12.9935773,22.2783324 12.7648862,22.373609 12.5263158,22.373609 C12.2877454,22.373609 12.0590543,22.2783324 11.8910526,22.1089474 L11.8910526,22.1089474 C11.7216676,21.9409457 11.626391,21.7122546 11.626391,21.4736842 C11.626391,21.2351138 11.7216676,21.0064227 11.8910526,20.8384211 L16.3647368,16.3647368 Z" id="Path" fill="#37474F" fill-rule="nonzero"></path>
+                                <circle id="Oval" fill="#37474F" fill-rule="nonzero" cx="17" cy="17" r="1.78947368"></circle>
+                                <circle id="Oval" fill="#039BE5" fill-rule="nonzero" cx="17" cy="17" r="1"></circle>
+                                <circle id="Oval" fill="#37474F" fill-rule="nonzero" cx="17" cy="6.26315789" r="1"></circle>
+                                <circle id="Oval" fill="#37474F" fill-rule="nonzero" cx="17" cy="27.7368421" r="1"></circle>
+                                <circle id="Oval" fill="#37474F" fill-rule="nonzero" cx="27.7368421" cy="17" r="1"></circle>
+                                <circle id="Oval" fill="#37474F" fill-rule="nonzero" cx="6.26315789" cy="17" r="1"></circle>
+                                <circle id="Oval" fill="#35495D" fill-rule="nonzero" cx="7.70368421" cy="11.6315789" r="1"></circle>
+                                <circle id="Oval" fill="#35495D" fill-rule="nonzero" cx="26.2963158" cy="22.3684211" r="1"></circle>
+                                <circle id="Oval" fill="#35495D" fill-rule="nonzero" cx="22.3684211" cy="7.70368421" r="1"></circle>
+                                <circle id="Oval" fill="#35495D" fill-rule="nonzero" cx="11.6315789" cy="26.2963158" r="1"></circle>
+                                <circle id="Oval" fill="#35495D" fill-rule="nonzero" cx="7.70368421" cy="22.3684211" r="1"></circle>
+                                <circle id="Oval" fill="#35495D" fill-rule="nonzero" cx="26.2963158" cy="11.6315789" r="1"></circle>
+                                <circle id="Oval" fill="#35495D" fill-rule="nonzero" cx="11.6315789" cy="7.70368421" r="1"></circle>
+                                <circle id="Oval" fill="#35495D" fill-rule="nonzero" cx="22.3684211" cy="26.2963158" r="1"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="52px" viewBox="0 0 33 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>water-1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="16.3-MAIN-UI---ALL-ITEM-(-ADD)-Copy-2" transform="translate(-683.000000, -1484.000000)">
+            <g id="CREATE-ITEM" transform="translate(327.000000, 413.000000)">
+                <g id="NOTIFICATION-BAR" transform="translate(66.000000, 545.000000)">
+                    <g id="SET-3" transform="translate(23.000000, 485.000000)">
+                        <g id="water-1" transform="translate(267.000000, 41.000000)">
+                            <g>
+                                <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="28.2909354 50.4163 4.1090646 50.4163 0.95489441 13.3224 31.4451056 13.3224"></polygon>
+                                <polygon id="Shape" fill="#0DD9DD" fill-rule="nonzero" points="30.9121155 19.5918 28.2909354 50.4163 4.1090646 50.4163 1.48788447 19.5918"></polygon>
+                                <polygon id="Shape" fill="#AAFFF5" fill-rule="nonzero" points="5.85645093 46.2367 3.75367081 46.2367 1.48788447 19.5918 3.5906646 19.5918"></polygon>
+                                <polygon id="Shape" fill="#02A6AA" fill-rule="nonzero" points="30.9121155 19.5918 28.6463292 46.2367 26.5435491 46.2367 28.8093354 19.5918"></polygon>
+                                <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="28.6463292 46.2367 28.2909354 50.4163 4.1090646 50.4163 3.75367081 46.2367"></polygon>
+                                <polygon id="Shape" fill="#EBE5DD" fill-rule="nonzero" points="28.6463292 46.2367 28.2909354 50.4163 26.1881553 50.4163 26.5435491 46.2367"></polygon>
+                                <rect id="Rectangle-path" fill="#AAFFF5" fill-rule="nonzero" transform="translate(10.653517, 21.838060) rotate(-135.000000) translate(-10.653517, -21.838060) " x="6.97373784" y="18.1809947" width="7.35955923" height="7.31412986"></rect>
+                                <rect id="Rectangle-path" fill="#AAFFF5" fill-rule="nonzero" x="14.3337801" y="24.4506" width="7.35973043" height="7.3143"></rect>
+                                <polygon id="Rectangle-path" fill="#AAFFF5" fill-rule="nonzero" transform="translate(14.858779, 37.512104) rotate(160.001229) translate(-14.858779, -37.512104) " points="11.1789133 33.8549536 18.5386441 33.8549536 18.5386441 41.1692539 11.1789133 41.1692539"></polygon>
+                                <path d="M26.214518,12.5388 L26.214518,1.5673 L31.4452062,1.5673 L31.4452062,0 L24.6374832,0 L24.6374832,12.5388 L0.0967975155,12.5388 L3.38429068,51.2 L29.0156087,51.2 L32.3031019,12.5388 L26.214518,12.5388 L26.214518,12.5388 Z M4.83373789,49.6327 L4.61156646,47.0205 L27.7883329,47.0205 L27.5661615,49.6327 L4.83373789,49.6327 Z M27.9216559,45.4531 L4.4783441,45.4531 L2.34588075,20.3756 L4.55582236,20.3756 L4.55582236,18.8083 L2.21265839,18.8083 L1.81279006,14.1063 L30.5871093,14.1063 L30.187241,18.8083 L26.214518,18.8083 L26.214518,15.4124 L24.6374832,15.4124 L24.6374832,18.8083 L16.7521081,18.8083 L16.7521081,20.3756 L24.6374832,20.3756 L24.6374832,40.0197 L26.214518,40.0197 L26.214518,20.3755 L30.0541193,20.3755 L27.9216559,45.4531 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                                <path d="M16.9729714,21.8384 L10.6536634,15.5581 L4.33455652,21.8384 L10.6538646,28.1185 L13.5452124,25.245 L13.5452124,32.5485 L15.5156758,32.5485 L9.13217143,34.8576 L12.1887391,43.2037 L20.5865776,40.166 L17.7968571,32.5485 L22.4819776,32.5485 L22.4819776,23.6669 L15.1332149,23.6669 L16.9729714,21.8384 Z M13.1313578,41.1948 L11.1535491,35.7944 L16.5875925,33.8288 L18.5654012,39.2292 L13.1313578,41.1948 Z M20.9048422,30.9812 L15.1222472,30.9812 L15.1222472,25.2343 L20.9048422,25.2343 L20.9048422,30.9812 Z M6.5648236,21.8384 L10.653764,17.7747 L14.7427043,21.8384 L10.653764,25.9021 L6.5648236,21.8384 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+.inventory_parent > div:first-child{
+    font-family: CircularStd;
+    display: flex;
+    flex-direction: column;
+    padding: 4vmin 7vmin 5vmin 5vmin;
+}
+.inventory_parent > div:last-child{
+    display: flex;
+    padding: 0vmin 2vmin 2vmin 2.5vmin;
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="34px" viewBox="0 0 46 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>CONFIRMED</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="14.MAIN-UI---ONLINE-ORDER" transform="translate(-1104.000000, -426.000000)">
+            <g id="ONLINE-ORDER" transform="translate(293.000000, 203.000000)">
+                <g id="TAB-1" transform="translate(23.000000, 165.000000)">
+                    <g id="STATUS" transform="translate(788.000000, 55.000000)">
+                        <g id="CONFIRMED" transform="translate(0.000000, 3.000000)">
+                            <path d="M40.646,6 L28,6 L28,29 L43,29 C44.657,29 46,27.657 46,26 L46,16.385 C46,16.131 45.951,15.878 45.857,15.642 L42.503,7.257 C42.199,6.498 41.464,6 40.646,6 L40.646,6 Z" id="Shape" fill="#FFC107"></path>
+                            <path d="M43.083,18.936 L32,18.936 C31.448,18.936 31,18.488 31,17.936 L31,9 C31,8.448 31.448,8 32,8 L40.177,8 C40.587,8 40.956,8.251 41.107,8.633 L44.013,15.99 C44.059,16.107 44.083,16.232 44.083,16.357 L44.083,17.936 C44.083,18.488 43.636,18.936 43.083,18.936 L43.083,18.936 Z" id="Shape" fill="#35495D"></path>
+                            <path d="M26,0 L2,0 C0.895,0 0,0.895 0,2 L0,29 L28,29 L28,2 C28,0.895 27.105,0 26,0 L26,0 Z" id="Shape" fill="#4CAF50"></path>
+                            <circle id="Oval" fill="#37474F" cx="12" cy="29" r="5"></circle>
+                            <circle id="Oval" fill="#78909C" cx="12" cy="29" r="2"></circle>
+                            <circle id="Oval" fill="#37474F" cx="37" cy="29" r="5"></circle>
+                            <circle id="Oval" fill="#78909C" cx="37" cy="29" r="2"></circle>
+                            <rect id="Rectangle-path" fill="#FF5722" x="44" y="24" width="2" height="2"></rect>
+                            <rect id="Rectangle-path" fill="#D1C4E9" x="44" y="21" width="2" height="3"></rect>
+                            <polyline id="Shape" stroke="#FFFFFF" stroke-width="4" points="6.79 12.05 12.177 17.437 21.22 8.394"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

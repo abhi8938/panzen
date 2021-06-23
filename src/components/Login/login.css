@@ -1,0 +1,242 @@
+.login {
+  background-image: url('../.././Assets/login/Path.svg');
+  background-repeat: repeat-y;
+  background-color: #263b59;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  min-height: 100vh;
+  width: auto;
+  font-family: Montserrat;
+  padding: 0vh 4vw 0vh 4.4vw
+}
+
+.App-logo {
+  height: 14vmin;
+  width: 12vmin;
+  object-fit: contain;
+  pointer-events: none;
+}
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 5s linear;
+  }
+} */
+.left-section {
+  height: 88vh;
+  width: 59%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.section-1 {
+  height: 15vmin;
+  width: 70%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 9vmin;
+  /* background-color: #cccccc */
+}
+
+.section-2 {
+  height: 40vmin;
+  width: 72%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* background-color: #cccccc; */
+}
+
+.section-3 {
+  height: 20vmin;
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-around;
+  /* background-color: #cccccc */
+}
+
+.social-icon {
+  cursor: pointer;
+  width: 5vmin;
+  height: 5vmin;
+}
+
+/* righ-Section */
+.right-section {
+  height: 85vmin;
+  width: 46.6%;
+  background-color: white;
+  border-radius: 2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: -8.5vw;
+}
+
+.nav-container {
+  width: 90%;
+  height: 10vmin;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.nav-icon {
+  cursor: pointer;
+  width: 3.5vmin;
+  height: 2.8vmin;
+  object-fit: contain
+}
+
+.ill-container {
+  display: flex;
+  align-items: center;
+}
+
+.illustration {
+  width: 125%;
+  height: 50vh;
+  object-fit: contain;
+  margin-bottom: 14vmin
+}
+
+/* login_Text_input */
+.text-container {
+  width: 88%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  background-color: transparent;
+  color: white;
+  height: 9vmin;
+  padding: 8px;
+  margin-left: 8%;
+  margin-bottom: .5vmin;
+}
+
+.text-title {
+  font-size: .9vw;
+  font-weight: 800;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 2.4px;
+}
+
+.text-input {
+  width: 99%;
+  background-color: transparent;
+  border: 0;
+  color: white;
+  opacity: 0.5;
+  font-size: 1.4vw;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 2.4px;
+  padding-bottom: 3px;
+  padding-left: .5vmin;
+  -webkit-transition: opacity 0.3s ease-in-out;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.text-input:focus {
+  outline-style: solid;
+  outline-color: #f9f9f9;
+  outline-width: 0px;
+  opacity: 1;
+}
+
+.text-span {
+  border-radius: 10px;
+  width: 100%;
+  height: 2px;
+  background-color: white;
+  opacity: 0.5;
+  -webkit-transition: opacity 0.3s ease-in-out;
+  transition: opacity 0.3s ease-in-out;
+}
+.text-span-focus{
+  opacity: 1;
+}
+
+/* remember-section */
+.remember-container {
+  display: flex;
+  height: 5vmin;
+  width: 88%;
+  flex-direction: row;
+  justify-content: space-between;
+  /* padding: 4px; */
+  margin-left: 8%;
+  margin-bottom: 2.5vmin;
+  align-items: center;
+  /* background-color: rgba(255, 255, 255, 0.5); */
+}
+
+.remember-text {
+  font-size: 1.1vw;
+  font-weight: 600;
+  letter-spacing: 1.2px;
+}
+
+.toggle-remember {
+  box-shadow: inset 0 4px 16px 0 rgba(0, 0, 0, 0.03);
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+/* button-section */
+.login-button {
+  cursor: pointer;
+  width: 87%;
+  height: 7vmin;
+  margin-left: 8%;
+  margin-bottom: 2vmin;
+  box-shadow: 0 24px 24px 0 rgba(0, 0, 0, 0.1);
+  background-color: white;
+  border-radius: 10px;
+  border: 0;
+  font-size: 1.5vw;
+  font-weight: 600;
+  letter-spacing: 1.43px;
+  text-align: center;
+  color: #e58b29;
+  -webkit-transition: background-color 0.3s ease-in-out;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.login-error {
+  background-color: #f26464;
+  color: #faf8f5;
+}
+
+/* forgot-section */
+.forgot-container {
+
+  width: 88%;
+  height: 5vmin;
+  margin-left: 8%;
+}
+
+.forgot-text {
+  cursor: pointer;
+  opacity: 0.5;
+  font-family: Montserrat;
+  font-size: 1vw;
+  font-weight: 600;
+  letter-spacing: 1.2px;
+  color: #ffffff;
+}

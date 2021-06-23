@@ -1,0 +1,31 @@
+.product_rating_parent {
+    width: 43%;
+    height: 46vh;
+    border: solid 1px rgba(39, 49, 66, 0.5);
+    background-color: rgba(39, 49, 66, 0.5);
+    padding: 3.3vmin 3.3vmin 0vmin 3.3vmin;
+    font-family: CircularStd;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.product_rating_first_child {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 96%;
+    margin-bottom: 4vh;
+}
+
+.product_rating_second_child {
+    width: 98%;
+    height: 42vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.product_rating_loader{
+    width: 98%;
+}
+

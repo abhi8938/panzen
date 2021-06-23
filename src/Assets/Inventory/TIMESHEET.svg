@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="41px" viewBox="0 0 30 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>TIMESHEET</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="25.2-MAIN-UI---EMPLOYEE-ANALYTICS-(EMPLOYEE-DETAILS)" transform="translate(-904.000000, -1016.000000)">
+            <g id="2.EMPLOYEE-DETAILS" transform="translate(310.000000, 730.000000)">
+                <g id="DETAILS" transform="translate(0.000000, 91.000000)">
+                    <g id="TAB--ACTIVE" transform="translate(1.000000, 48.000000)">
+                        <g id="TIMESHEET" transform="translate(593.000000, 147.000000)">
+                            <g id="Layer_1">
+                                <g>
+                                    <rect id="Rectangle-path" fill="#FF9800" x="0" y="3" width="30" height="38"></rect>
+                                    <rect id="Rectangle-path" fill="#FFFFFF" x="3" y="6" width="24" height="32"></rect>
+                                    <polygon id="Shape" fill="#E65100" points="22 6 23 6 22 3"></polygon>
+                                    <polygon id="Shape" fill="#E65100" points="8 6 7 6 8 3"></polygon>
+                                    <rect id="Rectangle-path" fill="#2196F3" x="8" y="19" width="14" height="2"></rect>
+                                    <rect id="Rectangle-path" fill="#2196F3" x="8" y="23" width="14" height="2"></rect>
+                                    <rect id="Rectangle-path" fill="#2196F3" x="8" y="27" width="14" height="2"></rect>
+                                    <path d="M15,0 C12.795,0 11,1.795 11,4 C11,6.206 12.795,8 15,8 C17.205,8 19,6.205 19,4 C19,1.795 17.205,0 15,0 L15,0 Z" id="Shape" fill="#9FA8DA"></path>
+                                    <path d="M8,3 L8,7 C8,8.105 8.895,9 10,9 L20,9 C21.105,9 22,8.105 22,7 L22,3 L8,3 L8,3 Z" id="Shape" fill="#9FA8DA"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>MAXIMIZE</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-54.5%" y="-54.5%" width="209.1%" height="209.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="11.MAIN-UI---DINE-IN" transform="translate(-582.000000, -627.000000)" fill="#3F51B5">
+            <g id="TABLES" transform="translate(312.000000, 340.000000)">
+                <g id="TABLE-1">
+                    <g id="OREDR-DETAILS" transform="translate(20.400001, 274.800011)">
+                        <g id="MAXIMIZE" transform="translate(253.599999, 14.199989)">
+                            <g filter="url(#filter-1)">
+                                <polygon id="Rectangle-path" transform="translate(5.843580, 15.755814) rotate(-45.000000) translate(-5.843580, -15.755814) " points="2.30121383 14.5558258 9.38594547 14.5558258 9.38594547 16.9558027 2.30121383 16.9558027"></polygon>
+                                <polygon id="Shape" points="14.0999992 9.19679945 19.1093989 4.17179975 17.412599 2.47499985 12.4031993 7.49999955"></polygon>
+                                <polygon id="Shape" points="0 14.3999991 0 21.5999987 7.19999957 21.5999987"></polygon>
+                                <polygon id="Shape" points="21.5999987 7.19999957 21.5999987 0 14.3999991 0"></polygon>
+                                <polygon id="Rectangle-path" transform="translate(5.843944, 5.843760) rotate(-45.000000) translate(-5.843944, -5.843760) " points="4.64395603 2.30139383 7.04393287 2.30139383 7.04393287 9.38612547 4.64395603 9.38612547"></polygon>
+                                <polygon id="Shape" points="12.4031993 14.0999992 17.428199 19.1093989 19.1249989 17.412599 14.0999992 12.4031993"></polygon>
+                                <polygon id="Shape" points="7.19999957 0 0 0 0 7.19999957"></polygon>
+                                <polygon id="Shape" points="14.3999991 21.5999987 21.5999987 21.5999987 21.5999987 14.3999991"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

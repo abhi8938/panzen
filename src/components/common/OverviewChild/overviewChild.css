@@ -1,0 +1,66 @@
+.overview-child {
+    width: 100%;
+    height: 15vh;
+    padding:2vmin 3vmin 2.5vmin 3vmin;
+    border-radius: 8.6px;
+    box-shadow: 0 9px 9px -3px rgba(9, 11, 13, 0.5);
+    border: solid 1.7px #24262b;
+    background-image: linear-gradient(114deg, #24262b, #191c1f);
+    margin-top: 2vmin;
+    margin-bottom: 3vmin;
+}
+.overview-child > div:first-child{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    height: 80%;
+}
+.overview-child > div:first-child > div:first-child{
+    display: flex;
+    justify-content: space-evenly ;
+    flex-direction: column;
+}
+.overview-child > div:first-child  > img{
+    width: 6.5vmin;
+    height: 6.5vmin;
+    margin-top: 1.5vmin;
+}
+.overview-child > div:first-child > div:first-child > text:first-child{
+    font-family: CircularStd;
+    font-size: 1.7vmin;
+    font-weight: 500;
+    color:white;
+}
+.overview-child > div:first-child > div:first-child > text:last-child{
+    display: flex;
+    justify-content: space-evenly ;
+    flex-direction: column;
+    font-family: CircularStd;
+    font-size: 1.4vmin;
+    color: white;
+}
+.overview-child > div:first-child > div:first-child > text:last-child > span{
+    font-family: Rubik;
+    font-size: 2.4vmin;
+    font-weight: 600;
+    margin-top: .5vmin;
+}
+.overview-child > div:last-child{
+    display: flex;
+    flex-direction: row;
+    height: 10%;
+    width: 90%;
+}
+.overview-child > div:last-child > div{
+    margin-right: 2vmin;
+}
+.overview-child > div:last-child > div > text:first-child{
+    font-family: CircularStd;
+    font-size: 1.2vmin;
+    color: #8590b3;
+    margin-right: 1vmin;
+}
+.overview-child > div:last-child > div > text:last-child {
+    font-size: 1.2vmin;
+}
+

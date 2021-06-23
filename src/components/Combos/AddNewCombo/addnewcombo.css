@@ -1,0 +1,121 @@
+.add_new_combo{
+    width: 93%;
+    border-radius: 20px;
+    background-color: #1c2531;
+    margin-left: 1.5%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10vh;
+    align-items: start;
+    padding:1vmin 2vmin 4vmin 2vmin;
+    color: white;
+}
+.combo_input{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 3vmin;
+}
+.combo_input > text:first-child{
+    font-family: CircularStd;
+    font-size: 1.8vmin;
+    line-height: 2.25;
+}
+.combo_input > div:nth-child(2) input{
+    border: solid 0.5px rgba(116,116,116,0.5);
+    background-color: rgba(34,44,60,1);
+    padding-left: 2vmin;
+    font-family: CircularStd;
+    font-size: 1.8vmin;
+    color: rgba(255,255,255,0.5);
+    cursor: text;
+    margin-top: .5vmin;
+    border-radius: 4px;
+}
+.combo_input > div:nth-child(2) > input:focus{
+    outline-style: solid;
+    outline-color: #f9f9f9;
+    outline-width: 0px;
+    opacity: 1;
+}
+.combo_input > div:nth-child(2) > img:first-child{
+    width: 4vmin;
+    height: 5vmin;
+}
+.combo_input >div:nth-child(2){
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.combo_name_input{
+    width: 33%;
+    height: 5vh;
+}
+
+.combo_description_input{
+    height: 10vh;
+    width: 80%;
+}
+.combo_price_input{
+    width: 5%;
+    height: 5vh;
+}
+
+.add_new_combo > div:nth-child(4){
+    margin-top: 1vmin;
+}
+
+.add_new_combo > div:nth-child(4) > text:first-child{
+    margin-bottom: 1.4vmin;
+    font-family: CircularStd;
+    font-size: 1.8vmin;
+    line-height: 2.25;
+}
+.add_new_combo > div:nth-child(4){
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    justify-content: space-between;
+    padding-right: 1.5vmin;
+    border-radius: 10px;
+    margin-top: 3vmin;
+}
+
+.add_new_combo > div:nth-child(5){
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 3vmin;
+    width: 50%;
+}
+
+.add_new_combo > .update{
+    width: 15%;
+    height: 5vh;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.5);
+    background-color: #ffd600;
+    border: 0;
+    cursor: pointer;
+    align-self: center;
+    margin-top: 3vmin;
+    font-family: CircularStd;
+    font-size:1.8vmin;
+    text-align: center;
+    color: #1c2531;
+}
+.add_new_combo .combo_extra{
+    border-radius: 5px;
+    background-color: rgba(34,44,60,1);
+}
+
+.updateCombo{
+    background-color: transparent;
+    color: black;
+}
+
+.updateComboInput > div:nth-child(2) input{
+    color: white;
+}

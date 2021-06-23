@@ -1,0 +1,57 @@
+.order_details_parent {
+    width: 94%;
+    border: solid 1px rgba(39, 49, 66, 0.5);
+    background-color: rgba(39, 49, 66, 0.5);
+    padding: 3.8vmin 3.8vmin 3.8vmin 4.5vmin;
+    margin-bottom: 4vh;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-family: CircularStd;
+}
+
+.order_details_first_child {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.order_details_third_child {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    width: 60%;
+    margin-top: 4.5vh;
+    margin-bottom: 3vh;
+}
+
+.order_details_toggleButton_switch{
+    width: 1.6vmin;
+    height: 1.6vmin;
+    border-radius: 50%;
+    background-color:#28303f;
+    margin-right: 1vw;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in;
+    -webkit-transition: background-color 0.3s ease-in;
+}
+.order_details_toggleButton_switch_on{
+    background-color:#f16548;
+}
+.order_details_toggleButton_parent{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.order_details_toggleButton_label{
+    font-size: 1.1vw;
+    font-weight: 500;
+}
+.order_details_loader{
+    height: 44vh;
+    width: 100%;
+}

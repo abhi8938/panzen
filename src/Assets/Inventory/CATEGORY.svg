@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>CATEGORY</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="23.5.1--MAIN-UI---INVENTORY-MANAGEMENT-(INVENTORY-ITEM)" transform="translate(-315.000000, -391.000000)">
+            <g id="INVENTORY-MANAGEMENT" transform="translate(293.000000, 233.000000)">
+                <g id="CATEGORY" transform="translate(22.000000, 150.000000)">
+                    <g id="HEADER" transform="translate(0.000000, -0.000000)">
+                        <g id="CATEGORY" transform="translate(0.000000, 8.000000)">
+                            <g>
+                                <rect id="Rectangle-path" fill="#FFB74D" x="7.74193502" y="0" width="13.935483" height="13.935483"></rect>
+                                <rect id="Rectangle-path" fill="#FFB74D" x="15.48387" y="15.48387" width="13.935483" height="13.935483"></rect>
+                                <rect id="Rectangle-path" fill="#FFB74D" x="0" y="15.48387" width="13.935483" height="13.935483"></rect>
+                                <polyline id="Shape" stroke="#F44336" stroke-width="1.5999999" points="17.032257 10.0645155 17.032257 9.29032203 15.0967733 3.87096751 14.3225798 3.87096751 12.387096 9.29032203 12.387096 10.0645155"></polyline>
+                                <line x1="13.1612895" y1="7.74193502" x2="16.2580635" y2="7.74193502" id="Shape" stroke="#F44336" stroke-width="1.5999999"></line>
+                                <path d="M6.96774152,22.4516116 L5.41935452,22.4516116 L5.41935452,19.3548376 L6.96774152,19.3548376 C7.82322534,19.3548376 8.51612852,20.0477407 8.51612852,20.9032246 L8.51612852,20.9032246 C8.51612852,21.7587084 7.82322534,22.4516116 6.96774152,22.4516116 L6.96774152,22.4516116 Z" id="Shape" stroke="#2196F3" stroke-width="1.5999999"></path>
+                                <path d="M7.74193502,25.5483856 L5.41935452,25.5483856 L5.41935452,22.4516116 L7.74193502,22.4516116 C8.59741884,22.4516116 9.29032203,23.1445147 9.29032203,23.9999986 L9.29032203,23.9999986 C9.29032203,24.8554824 8.59741884,25.5483856 7.74193502,25.5483856 L7.74193502,25.5483856 Z" id="Shape" stroke="#2196F3" stroke-width="1.5999999"></path>
+                                <path d="M24.7741921,23.2258051 L24.7741921,23.2258051 C24.7741921,24.5086437 23.7344502,25.5483856 22.4516116,25.5483856 L22.4516116,25.5483856 C21.1687729,25.5483856 20.1290311,24.5086437 20.1290311,23.2258051 L20.1290311,21.6774181 C20.1290311,20.3945794 21.1687729,19.3548376 22.4516116,19.3548376 L22.4516116,19.3548376 C23.7344502,19.3548376 24.7741921,20.3945794 24.7741921,21.6774181 L24.7741921,21.6774181" id="Shape" stroke="#388E3C" stroke-width="1.5999999"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

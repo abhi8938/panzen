@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="44px" viewBox="0 0 54 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ORDER</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="23.1-MAIN-UI---INVENTORY-MANAGEMENT" transform="translate(-625.000000, -258.000000)">
+            <g id="INVENTORY-MANAGEMENT" transform="translate(293.000000, 203.000000)">
+                <g id="TOP-TOOLBAR" transform="translate(23.000000, 30.000000)">
+                    <g id="SUPPLY" transform="translate(191.000000, 11.000000)">
+                        <g id="ORDER-SUMMERY" transform="translate(100.000000, 6.000000)">
+                            <g id="ORDER" transform="translate(18.000000, 8.000000)">
+                                <g id="Delivery">
+                                    <path d="M46.8484173,8.47000018 L31.518368,8.47000018 L31.518368,37.5100008 L49.7020419,37.5100008 C51.7107317,37.5100008 53.3387767,35.8849708 53.3387767,33.8800007 L53.3387767,21.0358505 C53.3387767,20.7285104 53.2793767,20.4223804 53.1654256,20.1368204 L49.0995562,9.99097022 C48.7310337,9.0725802 47.8400337,8.47000018 46.8484173,8.47000018 L46.8484173,8.47000018 Z" id="Shape" fill="#FFC107"></path>
+                                    <path d="M49.8026582,24.1225605 L36.3673477,24.1225605 C35.6981885,24.1225605 35.1551028,23.5804805 35.1551028,22.9125605 L35.1551028,12.1000003 C35.1551028,11.4320802 35.6981885,10.8900002 36.3673477,10.8900002 L46.2798745,10.8900002 C46.7768949,10.8900002 47.2242133,11.1937102 47.4072623,11.6559303 L50.930046,20.5579004 C50.9858093,20.6994704 51.0149031,20.8507205 51.0149031,21.0019705 L51.0149031,22.9125605 C51.0149031,23.5804805 50.4730297,24.1225605 49.8026582,24.1225605 L49.8026582,24.1225605 Z" id="Shape" fill="#37474F"></path>
+                                    <rect id="Rectangle-path" fill="#9575CD" x="0" y="0" width="31.518368" height="30.2500007"></rect>
+                                    <rect id="Rectangle-path" fill="#7E57C2" x="0" y="30.2500007" width="31.518368" height="7.26000016"></rect>
+                                    <ellipse id="Oval" fill="#37474F" cx="12.1224492" cy="37.5100008" rx="6.06122462" ry="6.05000013"></ellipse>
+                                    <ellipse id="Oval" fill="#607D8B" cx="12.1224492" cy="37.5100008" rx="2.42448985" ry="2.42000005"></ellipse>
+                                    <ellipse id="Oval" fill="#37474F" cx="42.4285723" cy="37.5100008" rx="6.06122462" ry="6.05000013"></ellipse>
+                                    <ellipse id="Oval" fill="#607D8B" cx="42.4285723" cy="37.5100008" rx="2.42448985" ry="2.42000005"></ellipse>
+                                    <rect id="Rectangle-path" fill="#FF5722" x="50.9142868" y="31.4600007" width="2.42448985" height="2.42000005"></rect>
+                                    <rect id="Rectangle-path" fill="#FFF59D" x="50.9142868" y="29.0400006" width="2.42448985" height="2.42000005"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

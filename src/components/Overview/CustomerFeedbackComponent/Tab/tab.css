@@ -1,0 +1,16 @@
+.customer_feedback_tab_parent{
+    padding: 1vmin;
+    margin: .4vmin 1.4vmin 1.4vmin 1.4vmin;
+    border-bottom: transparent 1.9px solid;
+    cursor: pointer;
+    transition: border-bottom-color 0.4s ease-in;
+    -webkit-transition: border-bottom-color 0.4s ease-in;
+}
+.customer_feedback_tab_text{
+    font-size: 1vw;
+    font-weight: 500;
+}
+.customer_feedback_tab_selected{
+    padding: 1vmin;
+    border-bottom: white 2px solid;
+}

@@ -1,0 +1,57 @@
+/*rating_item*/
+
+.rating_item_parent {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.rating_item_first_child {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 45%;
+}
+
+.rating_item_first_child_icon {
+    width: 6.2vmin;
+    height: 6.2vmin;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+    border-radius: 54%;
+    margin-right: 1vw;
+}
+
+.rating_item_first_child_title {
+    font-size: 1.2vw;
+    font-weight: 500;
+    width: 79%;
+}
+
+.rating_item_second_child {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    width: 45%;
+}
+
+.rating_item_rating_icon {
+    height: 5.8vmin;
+}
+.rating_item_first_child_icons{
+    display: flex;
+    flex-direction: row;
+}
+.rating_item_first_child_top{
+    margin-bottom: 1.7vh;
+    margin-right: -1vmin;
+    z-index: 1;
+    width: 3vmin;
+    height: 4vmin;
+}
+.rating_item_first_child_icons_5{
+    margin-left: -1.1vw;
+}

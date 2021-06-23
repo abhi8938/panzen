@@ -1,0 +1,10 @@
+.listFrame {
+    margin: 3vmin 0vmin 3vmin 0vmin;
+}
+
+.listFrame > text {
+    font-family: CircularStd;
+    font-size: 1.7vmin;
+    font-weight: 600;
+    color: white;
+}

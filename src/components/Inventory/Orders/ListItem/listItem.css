@@ -1,0 +1,72 @@
+.orderListItem {
+    width: 100%;
+    height: 17vmin;
+    font-family: CircularStd;
+    transition: all linear 0.4s;
+    -webkit-transition: all linear 0.4s;
+}
+
+.orderListItem > div:first-child > div:nth-child(2) {
+    display: grid;
+    grid-template-columns: 17.5% 16% 21% 15% 19% 15%;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.orderListItem > div:first-child > div:nth-child(2) > div:nth-child(2) {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 1.3vmin;
+}
+
+.orderListItem > div:first-child > div:nth-child(2) > div:last-child {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.orderListItem > div:first-child > div:nth-child(2) > div:last-child > div:last-child {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    width: 55%;
+    height: 3vmin;
+    border-radius: 3.4px;
+    box-shadow: 1px 1px 3px 0 rgba(0, 0, 0, 0.5);
+    border: solid 1px rgba(32,42,56,0.5);
+    padding:.7vmin .5vmin .5vmin .7vmin;
+    cursor: pointer;
+}
+.orderListItem > div:first-child > div:nth-child(2) > div:last-child > div:last-child > text {
+  color: #202a38;
+    font-family: CircularStd;
+    font-size: 1.4vmin;
+    font-weight: 500;
+    border-left: #202a38 1px solid;
+    padding-left: .5vmin;
+    margin-left: .5vmin;
+}
+
+.orderListItem > div:first-child > div:nth-child(2) > div:nth-child(2) > div > div {
+    padding: .5vmin;
+}
+
+.orderListItem .done_button {
+    border-radius: 18px;
+    box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.5);
+    background-color: #88d8b0;
+    width: 60%;
+    height: 5vmin;
+    border: solid 1px rgba(230, 230, 230, 0.5);
+    color: #1c2531;
+    font-family: CircularStd;
+    font-size: 1.6vmin;
+    font-weight: 500;
+    cursor: pointer;
+    margin-bottom: 2vmin;
+}
